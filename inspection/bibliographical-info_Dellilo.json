@@ -1,0 +1,2737 @@
+{
+  "zs:searchRetrieveResponse": {
+    "xmlns:zs": "http://www.loc.gov/zing/srw/",
+    "zs:version": "1.1",
+    "zs:numberOfRecords": "1",
+    "zs:records": {
+      "zs:record": {
+        "zs:recordSchema": "picaxml",
+        "zs:recordPacking": "xml",
+        "zs:recordData": {
+          "record": {
+            "xmlns": "info:srw/schema/5/picaXML-v1.0",
+            "datafield": [
+              {
+                "tag": "001@",
+                "subfield": {
+                  "_": "11,21,31,65,69-70,130,2004,2006,2009,2011-2012,2020",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "001A",
+                "subfield": {
+                  "_": "HDBSEN:23-04-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "001B",
+                "subfield": [
+                  {
+                    "_": "BSZ:07-09-24",
+                    "code": "0"
+                  },
+                  {
+                    "_": "11:10:00.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "001D",
+                "subfield": {
+                  "_": "9999:07-12-05",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "001U",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "001X",
+                "subfield": {
+                  "_": "0",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "002@",
+                "subfield": {
+                  "_": "Aau",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "002C",
+                "subfield": [
+                  {
+                    "_": "Text",
+                    "code": "a"
+                  },
+                  {
+                    "_": "txt",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "002D",
+                "subfield": [
+                  {
+                    "_": "ohne Hilfsmittel zu benutzen",
+                    "code": "a"
+                  },
+                  {
+                    "_": "n",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "002E",
+                "subfield": [
+                  {
+                    "_": "Band",
+                    "code": "a"
+                  },
+                  {
+                    "_": "nc",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "003@",
+                "subfield": {
+                  "_": "1617029572",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "003D",
+                "subfield": {
+                  "_": "245970770",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "003O",
+                "subfield": [
+                  {
+                    "_": "OCoLC",
+                    "code": "a"
+                  },
+                  {
+                    "_": "246317204",
+                    "code": "0"
+                  },
+                  {
+                    "_": "2012-12-31",
+                    "code": "v"
+                  }
+                ]
+              },
+              {
+                "tag": "003S",
+                "subfield": {
+                  "_": "090915496",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "003T",
+                "subfield": [
+                  {
+                    "_": "OCoLC",
+                    "code": "a"
+                  },
+                  {
+                    "_": "39313611",
+                    "code": "0"
+                  }
+                ]
+              },
+              {
+                "tag": "003T",
+                "subfield": [
+                  {
+                    "_": "OCoLC",
+                    "code": "a"
+                  },
+                  {
+                    "_": "246317204",
+                    "code": "0"
+                  }
+                ]
+              },
+              {
+                "tag": "004A",
+                "subfield": [
+                  {
+                    "_": "0140274987",
+                    "code": "0"
+                  },
+                  {
+                    "_": "(pbk.)",
+                    "code": "f"
+                  }
+                ]
+              },
+              {
+                "tag": "004L",
+                "subfield": {
+                  "_": "9780140274981",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "006A",
+                "subfield": {
+                  "_": "98028815",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "007G",
+                "subfield": [
+                  {
+                    "_": "BSZ",
+                    "code": "i"
+                  },
+                  {
+                    "_": "090915496",
+                    "code": "0"
+                  }
+                ]
+              },
+              {
+                "tag": "007H",
+                "subfield": [
+                  {
+                    "_": "GBV",
+                    "code": "i"
+                  },
+                  {
+                    "_": "245970770",
+                    "code": "0"
+                  }
+                ]
+              },
+              {
+                "tag": "009@",
+                "subfield": {
+                  "_": "mdedup",
+                  "code": "b"
+                }
+              },
+              {
+                "tag": "010@",
+                "subfield": {
+                  "_": "eng",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "011@",
+                "subfield": [
+                  {
+                    "_": "1998",
+                    "code": "a"
+                  },
+                  {
+                    "_": "1998",
+                    "code": "n"
+                  }
+                ]
+              },
+              {
+                "tag": "013D",
+                "subfield": [
+                  {
+                    "_": "105605727",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tsvz",
+                    "code": "V"
+                  },
+                  {
+                    "_": "209726091",
+                    "code": "3"
+                  },
+                  {
+                    "_": "gnd/4143413-4",
+                    "code": "7"
+                  },
+                  {
+                    "_": "Aufsatzsammlung",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "013D",
+                "subfield": [
+                  {
+                    "_": "105661236",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tsvz",
+                    "code": "V"
+                  },
+                  {
+                    "_": "209665084",
+                    "code": "3"
+                  },
+                  {
+                    "_": "gnd/4135952-5",
+                    "code": "7"
+                  },
+                  {
+                    "_": "Quelle",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "017G",
+                "subfield": [
+                  {
+                    "_": "0",
+                    "code": "S"
+                  },
+                  {
+                    "_": "http://www.gbv.de/dms/bowker/toc/9780140274981.pdf",
+                    "code": "u"
+                  },
+                  {
+                    "_": "V:DE-601",
+                    "code": "m"
+                  },
+                  {
+                    "_": "X:Bowker",
+                    "code": "m"
+                  },
+                  {
+                    "_": "pdf/application",
+                    "code": "q"
+                  },
+                  {
+                    "_": "2009-01-31",
+                    "code": "v"
+                  },
+                  {
+                    "_": "H",
+                    "code": "x"
+                  },
+                  {
+                    "_": "Inhaltsverzeichnis",
+                    "code": "y"
+                  },
+                  {
+                    "_": "Inhaltsverzeichnis",
+                    "code": "3"
+                  },
+                  {
+                    "_": "04",
+                    "code": "5"
+                  },
+                  {
+                    "_": "GBV",
+                    "code": "A"
+                  },
+                  {
+                    "_": "2",
+                    "code": "B"
+                  }
+                ]
+              },
+              {
+                "tag": "019@",
+                "subfield": {
+                  "_": "XD-US",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "021A",
+                "subfield": [
+                  {
+                    "_": "White noise",
+                    "code": "a"
+                  },
+                  {
+                    "_": "text and criticism",
+                    "code": "d"
+                  },
+                  {
+                    "_": "Don DeLillo; ed. by Mark Osteen",
+                    "code": "h"
+                  }
+                ]
+              },
+              {
+                "tag": "028A",
+                "subfield": [
+                  {
+                    "_": "079666175",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tpv1",
+                    "code": "V"
+                  },
+                  {
+                    "_": "gnd/118889664",
+                    "code": "7"
+                  },
+                  {
+                    "_": "164135588",
+                    "code": "3"
+                  },
+                  {
+                    "_": "piz",
+                    "code": "w"
+                  },
+                  {
+                    "_": "DeLillo",
+                    "code": "A"
+                  },
+                  {
+                    "_": "Don",
+                    "code": "D"
+                  },
+                  {
+                    "_": "1936",
+                    "code": "E"
+                  }
+                ]
+              },
+              {
+                "tag": "028C",
+                "subfield": [
+                  {
+                    "_": "755329457",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tpv3",
+                    "code": "V"
+                  },
+                  {
+                    "_": "gnd/1037240359",
+                    "code": "7"
+                  },
+                  {
+                    "_": "391261738",
+                    "code": "3"
+                  },
+                  {
+                    "_": "piz",
+                    "code": "w"
+                  },
+                  {
+                    "_": "Osteen",
+                    "code": "A"
+                  },
+                  {
+                    "_": "Mark",
+                    "code": "D"
+                  },
+                  {
+                    "_": "1954",
+                    "code": "E"
+                  }
+                ]
+              },
+              {
+                "tag": "033A",
+                "subfield": [
+                  {
+                    "_": "New York [u.a.]",
+                    "code": "p"
+                  },
+                  {
+                    "_": "Penguin Books",
+                    "code": "n"
+                  }
+                ]
+              },
+              {
+                "tag": "034D",
+                "subfield": {
+                  "_": "XIX, 538 S.",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "036E",
+                "subfield": {
+                  "_": "Viking critical library",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "037A",
+                "subfield": {
+                  "_": "Includes bibliographical references",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Industrial accidents",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Middle West",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "College teachers",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Middle West",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Stepfamilies",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Middle West",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "p",
+                    "code": "S"
+                  },
+                  {
+                    "_": "DeLillo, Don",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Death",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "600",
+                    "code": "N"
+                  },
+                  {
+                    "_": "p",
+                    "code": "S"
+                  },
+                  {
+                    "_": "DeLillo, Don",
+                    "code": "a"
+                  },
+                  {
+                    "_": "White noise",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "650",
+                    "code": "N"
+                  },
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "College teachers",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "v"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "650",
+                    "code": "N"
+                  },
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Stepfamilies",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "v"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "650",
+                    "code": "N"
+                  },
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Industrial accidents",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "v"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "650",
+                    "code": "N"
+                  },
+                  {
+                    "_": "s",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Death",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "v"
+                  }
+                ]
+              },
+              {
+                "tag": "044A",
+                "subfield": [
+                  {
+                    "_": "651",
+                    "code": "N"
+                  },
+                  {
+                    "_": "g",
+                    "code": "S"
+                  },
+                  {
+                    "_": "Middle West",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Fiction",
+                    "code": "v"
+                  }
+                ]
+              },
+              {
+                "tag": "044K",
+                "subfield": [
+                  {
+                    "_": "221367810",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tuv1",
+                    "code": "V"
+                  },
+                  {
+                    "_": "gnd/4430496-1",
+                    "code": "7"
+                  },
+                  {
+                    "_": "212368966",
+                    "code": "3"
+                  },
+                  {
+                    "_": "Tpv1",
+                    "code": "W"
+                  },
+                  {
+                    "_": "gnd/118889664",
+                    "code": "6"
+                  },
+                  {
+                    "_": "164135588",
+                    "code": "3"
+                  },
+                  {
+                    "_": "piz",
+                    "code": "w"
+                  },
+                  {
+                    "_": "DeLillo",
+                    "code": "A"
+                  },
+                  {
+                    "_": "Don",
+                    "code": "D"
+                  },
+                  {
+                    "_": "1936",
+                    "code": "E"
+                  },
+                  {
+                    "_": "White noise",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "044K",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "221367810",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tuv1",
+                    "code": "V"
+                  },
+                  {
+                    "_": "gnd/4430496-1",
+                    "code": "7"
+                  },
+                  {
+                    "_": "212368966",
+                    "code": "3"
+                  },
+                  {
+                    "_": "Tpv1",
+                    "code": "W"
+                  },
+                  {
+                    "_": "gnd/118889664",
+                    "code": "6"
+                  },
+                  {
+                    "_": "164135588",
+                    "code": "3"
+                  },
+                  {
+                    "_": "piz",
+                    "code": "w"
+                  },
+                  {
+                    "_": "DeLillo",
+                    "code": "A"
+                  },
+                  {
+                    "_": "Don",
+                    "code": "D"
+                  },
+                  {
+                    "_": "1936",
+                    "code": "E"
+                  },
+                  {
+                    "_": "White noise",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "045A",
+                "subfield": {
+                  "_": "PS3554.E4425W48 1998",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "045A",
+                "subfield": {
+                  "_": "PS3554.E4425",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "045F",
+                "subfield": {
+                  "_": "813/.54",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "045M",
+                "occurrence": "10",
+                "subfield": [
+                  {
+                    "_": "9",
+                    "code": "i"
+                  },
+                  {
+                    "_": "HU 3450",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "045Q",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "106415417",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tkv",
+                    "code": "V"
+                  },
+                  {
+                    "_": "18.06",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Angloamerikanische Literatur",
+                    "code": "j"
+                  }
+                ]
+              },
+              {
+                "tag": "045Q",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "181571714",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tkv",
+                    "code": "V"
+                  },
+                  {
+                    "_": "17.97",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Texte eines einzelnen Autors",
+                    "code": "j"
+                  }
+                ]
+              },
+              {
+                "tag": "045R",
+                "subfield": [
+                  {
+                    "_": "1271487071",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tkv",
+                    "code": "V"
+                  },
+                  {
+                    "_": "rvk/53946:11636",
+                    "code": "7"
+                  },
+                  {
+                    "_": "201487071",
+                    "code": "3"
+                  },
+                  {
+                    "_": "HU 3450",
+                    "code": "a"
+                  },
+                  {
+                    "_": "Primärliteratur",
+                    "code": "j"
+                  },
+                  {
+                    "_": "H",
+                    "code": "N"
+                  },
+                  {
+                    "_": "Anglistik. Amerikanistik",
+                    "code": "J"
+                  },
+                  {
+                    "_": "HR-HV",
+                    "code": "N"
+                  },
+                  {
+                    "_": "Amerikanische Literatur",
+                    "code": "J"
+                  },
+                  {
+                    "_": "HU",
+                    "code": "N"
+                  },
+                  {
+                    "_": "20. Jahrhundert",
+                    "code": "J"
+                  },
+                  {
+                    "_": "HU 1510-HU 9801",
+                    "code": "N"
+                  },
+                  {
+                    "_": "Literaturgeschichte",
+                    "code": "J"
+                  },
+                  {
+                    "_": "HU 2800-HU 9785",
+                    "code": "N"
+                  },
+                  {
+                    "_": "Einzelne Autoren",
+                    "code": "J"
+                  },
+                  {
+                    "_": "HU 3436-HU 3541",
+                    "code": "N"
+                  },
+                  {
+                    "_": "Autoren D",
+                    "code": "J"
+                  },
+                  {
+                    "_": "HU 3450-HU 3451",
+                    "code": "N"
+                  },
+                  {
+                    "_": "DeLillo, Don",
+                    "code": "J"
+                  }
+                ]
+              },
+              {
+                "tag": "046X",
+                "subfield": [
+                  {
+                    "_": "eb",
+                    "code": "a"
+                  },
+                  {
+                    "_": "20240324",
+                    "code": "c"
+                  },
+                  {
+                    "_": "DE-4165",
+                    "code": "f"
+                  },
+                  {
+                    "_": "1",
+                    "code": "z"
+                  }
+                ]
+              },
+              {
+                "tag": "046X",
+                "subfield": [
+                  {
+                    "_": "aa",
+                    "code": "a"
+                  },
+                  {
+                    "_": "20240722",
+                    "code": "c"
+                  },
+                  {
+                    "_": "NI-LastCopies",
+                    "code": "f"
+                  },
+                  {
+                    "_": "XA-DE-NI",
+                    "code": "x"
+                  },
+                  {
+                    "_": "Potenzieller Alleinbesitz Niedersachsen",
+                    "code": "z"
+                  },
+                  {
+                    "_": "DE-89",
+                    "code": "5"
+                  }
+                ]
+              },
+              {
+                "tag": "047A",
+                "subfield": {
+                  "_": "580-2: HDUB/s52  722:maub/ssf; 5090: ddsu/sred",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "11",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "10-01-23",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "17:35:21.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "202D",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "touchtitle_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "381541401",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "06-03-00",
+                    "code": "a"
+                  },
+                  {
+                    "_": "k",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "2",
+                    "code": "f"
+                  },
+                  {
+                    "_": "1 A 380908",
+                    "code": "a"
+                  },
+                  {
+                    "_": "u",
+                    "code": "d"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "91§5§6§99§99§§§1§0",
+                    "code": "a"
+                  },
+                  {
+                    "_": "31",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "1A380908§§§§§§§§§§",
+                    "code": "a"
+                  },
+                  {
+                    "_": "32",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209G",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "130001971010",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "220B",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "Anstreichungen",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "21",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "101B",
+                "subfield": [
+                  {
+                    "_": "06-03-07",
+                    "code": "0"
+                  },
+                  {
+                    "_": "14:03:15.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "101U",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "102D",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "csf_mm_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "145Z",
+                "occurrence": "30",
+                "subfield": {
+                  "_": "ang 957 del",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "145Z",
+                "occurrence": "99",
+                "subfield": {
+                  "_": "83",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "10-01-23",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "11-09-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "09:14:12.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "202D",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "11-09-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "6209",
+                    "code": "b"
+                  },
+                  {
+                    "_": "0046",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "533489164",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "01-01-02",
+                    "code": "a"
+                  },
+                  {
+                    "_": "rza",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "E03",
+                    "code": "f"
+                  },
+                  {
+                    "_": "a ang 957 del 1/710",
+                    "code": "a"
+                  },
+                  {
+                    "_": "u",
+                    "code": "d"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209C",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "vo 0710",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209G",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "46$0009199764",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "209O",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "unc_202203",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "31",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "101B",
+                "subfield": [
+                  {
+                    "_": "23-04-02",
+                    "code": "0"
+                  },
+                  {
+                    "_": "12:15:42.404",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "101U",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "102D",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "csf_mm_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "145Z",
+                "subfield": {
+                  "_": "AMK:Y",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "10-01-23",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "17:35:21.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "202D",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "touchtitle_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "548662568",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "18-04-02",
+                    "code": "a"
+                  },
+                  {
+                    "_": "z",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "J 25",
+                    "code": "f"
+                  },
+                  {
+                    "_": "AMK:Y::D353/1:Whi:1998",
+                    "code": "a"
+                  },
+                  {
+                    "_": "d",
+                    "code": "d"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209C",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "A71019",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209G",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "27$011704306",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "65",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "10-01-23",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "17:35:21.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "202D",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "touchtitle_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "348402325",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "06-09-99",
+                    "code": "a"
+                  },
+                  {
+                    "_": "za020",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "3",
+                    "code": "b"
+                  },
+                  {
+                    "_": "18",
+                    "code": "j"
+                  },
+                  {
+                    "_": "Ha 18-20",
+                    "code": "f"
+                  },
+                  {
+                    "_": "A 9.7. DeL",
+                    "code": "a"
+                  },
+                  {
+                    "_": "u",
+                    "code": "d"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209C",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "20A/1999/00294",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209G",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "3/20$000084107",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "69",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "101B",
+                "subfield": [
+                  {
+                    "_": "28-02-02",
+                    "code": "0"
+                  },
+                  {
+                    "_": "08:19:30.886",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "101U",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "102D",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "csf_mm_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "145Z",
+                "subfield": {
+                  "_": "HU 3450",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "10-01-23",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "17:35:21.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "202D",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "touchtitle_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "541551388",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "28-02-02",
+                    "code": "a"
+                  },
+                  {
+                    "_": "z",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "BB 310",
+                    "code": "f"
+                  },
+                  {
+                    "_": "310/HU 3450 W58.998",
+                    "code": "a"
+                  },
+                  {
+                    "_": "u",
+                    "code": "d"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209C",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "2002.2284",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209G",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "9$02567962",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "220B",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "UB 630 H",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "70",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "101B",
+                "subfield": [
+                  {
+                    "_": "13-04-04",
+                    "code": "0"
+                  },
+                  {
+                    "_": "07:58:21.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "101U",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "102D",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "csf_mm_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "145Z",
+                "occurrence": "20",
+                "subfield": {
+                  "_": "EV 900 del 3",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "10-01-23",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "17:35:21.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "202D",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "10-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "touchtitle_dubl",
+                    "code": "b"
+                  },
+                  {
+                    "_": "20728",
+                    "code": "a"
+                  }
+                ]
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "638209145",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "13-04-04",
+                    "code": "a"
+                  },
+                  {
+                    "_": "zcl",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "89",
+                    "code": "b"
+                  },
+                  {
+                    "_": "17",
+                    "code": "j"
+                  },
+                  {
+                    "_": "FBL",
+                    "code": "f"
+                  },
+                  {
+                    "_": "EV/900/del 3/424",
+                    "code": "a"
+                  },
+                  {
+                    "_": "u",
+                    "code": "d"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209C",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "FBL 2004-0424",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209G",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "89$124360556",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "2004",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "11-10-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "11-10-01",
+                    "code": "0"
+                  },
+                  {
+                    "_": "00:00:00.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201D",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "FR024:11-10-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "3204849732",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203S",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "394171004",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "11-10-01",
+                    "code": "a"
+                  },
+                  {
+                    "_": "l01",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "25/24",
+                    "code": "B"
+                  },
+                  {
+                    "_": "Frei 24:   AT+M DeLi 7a",
+                    "code": "a"
+                  },
+                  {
+                    "_": "p",
+                    "code": "D"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "ap",
+                    "code": "a"
+                  },
+                  {
+                    "_": "aa",
+                    "code": "a"
+                  },
+                  {
+                    "_": "13",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "220B",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "2001/424",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "2006",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "02-09-09",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "08-10-09",
+                    "code": "0"
+                  },
+                  {
+                    "_": "13:47:45.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201D",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "DDSU:02-09-09",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "3204849805",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203S",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "609159658",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "02-09-09",
+                    "code": "a"
+                  },
+                  {
+                    "_": "l01",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "14",
+                    "code": "B"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "2009",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "02",
+                "subfield": {
+                  "_": "01-03-16",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "02",
+                "subfield": [
+                  {
+                    "_": "12-01-23",
+                    "code": "0"
+                  },
+                  {
+                    "_": "05:55:25.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201D",
+                "occurrence": "02",
+                "subfield": {
+                  "_": "MAUB:01-03-16",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201U",
+                "occurrence": "02",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203@",
+                "occurrence": "02",
+                "subfield": {
+                  "_": "3204849872",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "206X",
+                "occurrence": "02",
+                "subfield": {
+                  "_": "22134453230002561",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "02",
+                "subfield": [
+                  {
+                    "_": "01-03-16",
+                    "code": "a"
+                  },
+                  {
+                    "_": "l01",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "02",
+                "subfield": [
+                  {
+                    "_": "180",
+                    "code": "B"
+                  },
+                  {
+                    "_": "500",
+                    "code": "f"
+                  },
+                  {
+                    "_": "500 HU 3450 W582(1998)",
+                    "code": "a"
+                  },
+                  {
+                    "_": "n",
+                    "code": "J"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "209B",
+                "occurrence": "02",
+                "subfield": [
+                  {
+                    "_": "alma",
+                    "code": "a"
+                  },
+                  {
+                    "_": "12",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "2011",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "20-12-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "12-06-08",
+                    "code": "0"
+                  },
+                  {
+                    "_": "20:21:12.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201D",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "HDUB:20-12-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "3204849929",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203S",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "394171039",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "20-12-01",
+                    "code": "a"
+                  },
+                  {
+                    "_": "l01",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "16",
+                    "code": "B"
+                  },
+                  {
+                    "_": "2001 A 11732",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "2012",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "23-04-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "23-04-01",
+                    "code": "0"
+                  },
+                  {
+                    "_": "00:00:00.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201D",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "HDBSEN:23-04-01",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "3204850005",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203S",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "394171012",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "23-04-01",
+                    "code": "a"
+                  },
+                  {
+                    "_": "l01",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "16/24",
+                    "code": "B"
+                  },
+                  {
+                    "_": "U DEL III 107",
+                    "code": "a"
+                  },
+                  {
+                    "_": "p",
+                    "code": "D"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "101@",
+                "subfield": [
+                  {
+                    "_": "2020",
+                    "code": "a"
+                  },
+                  {
+                    "_": "PICA",
+                    "code": "c"
+                  }
+                ]
+              },
+              {
+                "tag": "201A",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "14-02-02",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201B",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "14-02-02",
+                    "code": "0"
+                  },
+                  {
+                    "_": "00:00:00.000",
+                    "code": "t"
+                  }
+                ]
+              },
+              {
+                "tag": "201D",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "C1UB:14-02-02",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "201U",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "utf8",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203@",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "3204850110",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "203S",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "394170997",
+                  "code": "0"
+                }
+              },
+              {
+                "tag": "208@",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "14-02-02",
+                    "code": "a"
+                  },
+                  {
+                    "_": "l01",
+                    "code": "b"
+                  }
+                ]
+              },
+              {
+                "tag": "209A",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "Ch 1",
+                    "code": "B"
+                  },
+                  {
+                    "_": "HU 3450 whi 998",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              },
+              {
+                "tag": "220B",
+                "occurrence": "01",
+                "subfield": {
+                  "_": "$",
+                  "code": "a"
+                }
+              },
+              {
+                "tag": "245Z",
+                "occurrence": "01",
+                "subfield": [
+                  {
+                    "_": "1299507409",
+                    "code": "9"
+                  },
+                  {
+                    "_": "Tei",
+                    "code": "V"
+                  },
+                  {
+                    "_": "229507409",
+                    "code": "3"
+                  },
+                  {
+                    "_": "HU 3450",
+                    "code": "a"
+                  },
+                  {
+                    "_": "00",
+                    "code": "x"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "zs:recordPosition": "1"
+      }
+    },
+    "zs:echoedSearchRetrieveRequest": {
+      "zs:version": "1.1",
+      "zs:query": "pica.ppn=1617029572",
+      "zs:startRecord": "1",
+      "zs:maximumRecords": "1",
+      "zs:recordPacking": "xml",
+      "zs:recordSchema": "picaxml"
+    }
+  }
+}

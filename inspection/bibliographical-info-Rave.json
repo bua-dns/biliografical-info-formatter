@@ -1,0 +1,1024 @@
+[
+  {
+    "001@": {
+      "tag": "001@",
+      "subfield": {
+        "_": "2016",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "2016"
+      }
+    }
+  },
+  {
+    "001A": {
+      "tag": "001A",
+      "subfield": {
+        "_": "S1U094:19-11-19",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "S1U094:19-11-19"
+      }
+    }
+  },
+  {
+    "001B": {
+      "tag": "001B",
+      "subfield": [
+        {
+          "_": "S1U094:19-11-19",
+          "code": "0"
+        },
+        {
+          "_": "09:38:13.000",
+          "code": "t"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "S1U094:19-11-19",
+          "code": "0"
+        },
+        {
+          "_": "09:38:13.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "001D": {
+      "tag": "001D",
+      "subfield": {
+        "_": "S1U094:19-11-19",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "S1U094:19-11-19"
+      }
+    }
+  },
+  {
+    "001U": {
+      "tag": "001U",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "utf8"
+      }
+    }
+  },
+  {
+    "001X": {
+      "tag": "001X",
+      "subfield": {
+        "_": "0",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "0"
+      }
+    }
+  },
+  {
+    "002@": {
+      "tag": "002@",
+      "subfield": {
+        "_": "AFu",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "AFu"
+      }
+    }
+  },
+  {
+    "002C": {
+      "tag": "002C",
+      "subfield": [
+        {
+          "_": "Text",
+          "code": "a"
+        },
+        {
+          "_": "txt",
+          "code": "b"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "Text",
+          "code": "a"
+        },
+        {
+          "_": "txt",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "002D": {
+      "tag": "002D",
+      "subfield": [
+        {
+          "_": "ohne Hilfsmittel zu benutzen",
+          "code": "a"
+        },
+        {
+          "_": "n",
+          "code": "b"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "ohne Hilfsmittel zu benutzen",
+          "code": "a"
+        },
+        {
+          "_": "n",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "002E": {
+      "tag": "002E",
+      "subfield": [
+        {
+          "_": "Band",
+          "code": "a"
+        },
+        {
+          "_": "nc",
+          "code": "b"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "Band",
+          "code": "a"
+        },
+        {
+          "_": "nc",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "003@": {
+      "tag": "003@",
+      "subfield": {
+        "_": "1682092178",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "1682092178"
+      }
+    }
+  },
+  {
+    "004A": {
+      "tag": "004A",
+      "subfield": {
+        "_": "9783518397374",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "9783518397374"
+      }
+    }
+  },
+  {
+    "007G": {
+      "tag": "007G",
+      "subfield": [
+        {
+          "_": "KXP",
+          "code": "i"
+        },
+        {
+          "_": "1682092178",
+          "code": "0"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "KXP",
+          "code": "i"
+        },
+        {
+          "_": "1682092178",
+          "code": "0"
+        }
+      ]
+    }
+  },
+  {
+    "010@": {
+      "tag": "010@",
+      "subfield": {
+        "_": "ger",
+        "code": "a"
+      },
+      "subMetadata": {
+        "a": "ger"
+      }
+    }
+  },
+  {
+    "010E": {
+      "tag": "010E",
+      "subfield": {
+        "_": "rda",
+        "code": "e"
+      },
+      "subMetadata": {
+        "e": "rda"
+      }
+    }
+  },
+  {
+    "011@": {
+      "tag": "011@",
+      "subfield": {
+        "_": "2015",
+        "code": "a"
+      },
+      "subMetadata": {
+        "a": "2015"
+      }
+    }
+  },
+  {
+    "021A": {
+      "tag": "021A",
+      "subfield": [
+        {
+          "_": "Rave",
+          "code": "a"
+        },
+        {
+          "_": "Rainald Goetz",
+          "code": "h"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "Rave",
+          "code": "a"
+        },
+        {
+          "_": "Rainald Goetz",
+          "code": "h"
+        }
+      ]
+    }
+  },
+  {
+    "028A": {
+      "tag": "028A",
+      "subfield": [
+        {
+          "_": "080317596",
+          "code": "9"
+        },
+        {
+          "_": "Tpv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/119501651",
+          "code": "7"
+        },
+        {
+          "_": "161144624",
+          "code": "3"
+        },
+        {
+          "_": "piz",
+          "code": "w"
+        },
+        {
+          "_": "Goetz",
+          "code": "A"
+        },
+        {
+          "_": "Rainald",
+          "code": "D"
+        },
+        {
+          "_": "1954",
+          "code": "E"
+        },
+        {
+          "_": "VerfasserIn",
+          "code": "B"
+        },
+        {
+          "_": "aut",
+          "code": "4"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "080317596",
+          "code": "9"
+        },
+        {
+          "_": "Tpv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/119501651",
+          "code": "7"
+        },
+        {
+          "_": "161144624",
+          "code": "3"
+        },
+        {
+          "_": "piz",
+          "code": "w"
+        },
+        {
+          "_": "Goetz",
+          "code": "A"
+        },
+        {
+          "_": "Rainald",
+          "code": "D"
+        },
+        {
+          "_": "1954",
+          "code": "E"
+        },
+        {
+          "_": "VerfasserIn",
+          "code": "B"
+        },
+        {
+          "_": "aut",
+          "code": "4"
+        }
+      ]
+    }
+  },
+  {
+    "032@": {
+      "tag": "032@",
+      "subfield": {
+        "_": "9. Auflage",
+        "code": "a"
+      },
+      "subMetadata": {
+        "a": "9. Auflage"
+      }
+    }
+  },
+  {
+    "033A": {
+      "tag": "033A",
+      "subfield": [
+        {
+          "_": "Frankfurt am Main",
+          "code": "p"
+        },
+        {
+          "_": "Suhrkamp",
+          "code": "n"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "Frankfurt am Main",
+          "code": "p"
+        },
+        {
+          "_": "Suhrkamp",
+          "code": "n"
+        }
+      ]
+    }
+  },
+  {
+    "034D": {
+      "tag": "034D",
+      "subfield": {
+        "_": "270 Seiten",
+        "code": "a"
+      },
+      "subMetadata": {
+        "a": "270 Seiten"
+      }
+    }
+  },
+  {
+    "034M": {
+      "tag": "034M",
+      "subfield": {
+        "_": "Illustrationen",
+        "code": "a"
+      },
+      "subMetadata": {
+        "a": "Illustrationen"
+      }
+    }
+  },
+  {
+    "036C": {
+      "tag": "036C",
+      "subfield": [
+        {
+          "_": "Heute morgen, um 4 Uhr 11, als ich von den Wiesen zurückkam, wo ich den Tau aufgelesen habe",
+          "code": "a"
+        },
+        {
+          "_": "Rainald Goetz",
+          "code": "h"
+        },
+        {
+          "_": "5,1",
+          "code": "l"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "Heute morgen, um 4 Uhr 11, als ich von den Wiesen zurückkam, wo ich den Tau aufgelesen habe",
+          "code": "a"
+        },
+        {
+          "_": "Rainald Goetz",
+          "code": "h"
+        },
+        {
+          "_": "5,1",
+          "code": "l"
+        }
+      ]
+    }
+  },
+  {
+    "036D": {
+      "tag": "036D",
+      "subfield": [
+        {
+          "_": "5,1,9",
+          "code": "X"
+        },
+        {
+          "_": "1187331902",
+          "code": "9"
+        },
+        {
+          "_": "Acu",
+          "code": "R"
+        },
+        {
+          "_": "117331902",
+          "code": "5"
+        },
+        {
+          "_": "3518455990",
+          "code": "2"
+        },
+        {
+          "_": "Tpv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/119501651",
+          "code": "7"
+        },
+        {
+          "_": "161144624",
+          "code": "3"
+        },
+        {
+          "_": "piz",
+          "code": "w"
+        },
+        {
+          "_": "Goetz",
+          "code": "A"
+        },
+        {
+          "_": "Rainald",
+          "code": "D"
+        },
+        {
+          "_": "1954",
+          "code": "E"
+        },
+        {
+          "_": "Heute morgen",
+          "code": "a"
+        },
+        {
+          "_": "[Taschenbuchausg. im Schuber]",
+          "code": "g"
+        },
+        {
+          "_": "Frankfurt am Main",
+          "code": "p"
+        },
+        {
+          "_": "Suhrkamp",
+          "code": "n"
+        },
+        {
+          "_": "20XX",
+          "code": "h"
+        },
+        {
+          "_": "5,1",
+          "code": "l"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "5,1,9",
+          "code": "X"
+        },
+        {
+          "_": "1187331902",
+          "code": "9"
+        },
+        {
+          "_": "Acu",
+          "code": "R"
+        },
+        {
+          "_": "117331902",
+          "code": "5"
+        },
+        {
+          "_": "3518455990",
+          "code": "2"
+        },
+        {
+          "_": "Tpv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/119501651",
+          "code": "7"
+        },
+        {
+          "_": "161144624",
+          "code": "3"
+        },
+        {
+          "_": "piz",
+          "code": "w"
+        },
+        {
+          "_": "Goetz",
+          "code": "A"
+        },
+        {
+          "_": "Rainald",
+          "code": "D"
+        },
+        {
+          "_": "1954",
+          "code": "E"
+        },
+        {
+          "_": "Heute morgen",
+          "code": "a"
+        },
+        {
+          "_": "[Taschenbuchausg. im Schuber]",
+          "code": "g"
+        },
+        {
+          "_": "Frankfurt am Main",
+          "code": "p"
+        },
+        {
+          "_": "Suhrkamp",
+          "code": "n"
+        },
+        {
+          "_": "20XX",
+          "code": "h"
+        },
+        {
+          "_": "5,1",
+          "code": "l"
+        }
+      ]
+    }
+  },
+  {
+    "036E": {
+      "tag": "036E",
+      "subfield": [
+        {
+          "_": "Suhrkamp-Taschenbuch",
+          "code": "a"
+        },
+        {
+          "_": "3237",
+          "code": "l"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "Suhrkamp-Taschenbuch",
+          "code": "a"
+        },
+        {
+          "_": "3237",
+          "code": "l"
+        }
+      ]
+    }
+  },
+  {
+    "045R": {
+      "tag": "045R",
+      "subfield": [
+        {
+          "_": "1274050103",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "rvk/42673:11633",
+          "code": "7"
+        },
+        {
+          "_": "204050103",
+          "code": "3"
+        },
+        {
+          "_": "GN 4946",
+          "code": "a"
+        },
+        {
+          "_": "Primärliteratur",
+          "code": "j"
+        },
+        {
+          "_": "G",
+          "code": "N"
+        },
+        {
+          "_": "Germanistik. Niederlandistik. Skandinavistik",
+          "code": "J"
+        },
+        {
+          "_": "GE 3003-GT 1500",
+          "code": "N"
+        },
+        {
+          "_": "Deutsche Literatur",
+          "code": "J"
+        },
+        {
+          "_": "GN",
+          "code": "N"
+        },
+        {
+          "_": "Moderne II: 1946 - 1990",
+          "code": "J"
+        },
+        {
+          "_": "GN 1402-GN 9999",
+          "code": "N"
+        },
+        {
+          "_": "Literaturgeschichte",
+          "code": "J"
+        },
+        {
+          "_": "GN 2516-GN 9999",
+          "code": "N"
+        },
+        {
+          "_": "Einzelne Autoren",
+          "code": "J"
+        },
+        {
+          "_": "GN 4827-GN 5141",
+          "code": "N"
+        },
+        {
+          "_": "Autoren G",
+          "code": "J"
+        },
+        {
+          "_": "GN 4946-GN 4947",
+          "code": "N"
+        },
+        {
+          "_": "Goetz, Rainald",
+          "code": "J"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "1274050103",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "rvk/42673:11633",
+          "code": "7"
+        },
+        {
+          "_": "204050103",
+          "code": "3"
+        },
+        {
+          "_": "GN 4946",
+          "code": "a"
+        },
+        {
+          "_": "Primärliteratur",
+          "code": "j"
+        },
+        {
+          "_": "G",
+          "code": "N"
+        },
+        {
+          "_": "Germanistik. Niederlandistik. Skandinavistik",
+          "code": "J"
+        },
+        {
+          "_": "GE 3003-GT 1500",
+          "code": "N"
+        },
+        {
+          "_": "Deutsche Literatur",
+          "code": "J"
+        },
+        {
+          "_": "GN",
+          "code": "N"
+        },
+        {
+          "_": "Moderne II: 1946 - 1990",
+          "code": "J"
+        },
+        {
+          "_": "GN 1402-GN 9999",
+          "code": "N"
+        },
+        {
+          "_": "Literaturgeschichte",
+          "code": "J"
+        },
+        {
+          "_": "GN 2516-GN 9999",
+          "code": "N"
+        },
+        {
+          "_": "Einzelne Autoren",
+          "code": "J"
+        },
+        {
+          "_": "GN 4827-GN 5141",
+          "code": "N"
+        },
+        {
+          "_": "Autoren G",
+          "code": "J"
+        },
+        {
+          "_": "GN 4946-GN 4947",
+          "code": "N"
+        },
+        {
+          "_": "Goetz, Rainald",
+          "code": "J"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "2016",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "2016",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "19-11-19",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "19-11-19"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "19-11-19",
+          "code": "0"
+        },
+        {
+          "_": "09:38:59.000",
+          "code": "t"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "19-11-19",
+          "code": "0"
+        },
+        {
+          "_": "09:38:59.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201D": {
+      "tag": "201D",
+      "occurrence": "01",
+      "subfield": {
+        "_": "S1U094:19-11-19",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "S1U094:19-11-19"
+      }
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "utf8"
+      }
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "3542262676",
+        "code": "0"
+      },
+      "subMetadata": {
+        "0": "3542262676"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "19-11-19",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "19-11-19",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "93/94",
+          "code": "B"
+        },
+        {
+          "_": "W8/3--GOE:t83\"9\"(5,1)",
+          "code": "a"
+        },
+        {
+          "_": "p",
+          "code": "D"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "93/94",
+          "code": "B"
+        },
+        {
+          "_": "W8/3--GOE:t83\"9\"(5,1)",
+          "code": "a"
+        },
+        {
+          "_": "p",
+          "code": "D"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "237A": {
+      "tag": "237A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "(A 109/19) NdL",
+        "code": "a"
+      },
+      "subMetadata": {
+        "a": "(A 109/19) NdL"
+      }
+    }
+  },
+  {
+    "237B": {
+      "tag": "237B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "1911",
+          "code": "0"
+        },
+        {
+          "_": "S1U094W",
+          "code": "f"
+        }
+      ],
+      "subMetadata": [
+        {
+          "_": "1911",
+          "code": "0"
+        },
+        {
+          "_": "S1U094W",
+          "code": "f"
+        }
+      ]
+    }
+  }
+]
