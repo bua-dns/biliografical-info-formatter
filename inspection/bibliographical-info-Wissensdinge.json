@@ -1,0 +1,291 @@
+{
+  "001@": {
+    "0": "11,21-22,39-40,50,100,181,702,2018,2027,2337,2356,2532"
+  },
+  "001A": {
+    "0": "FGBA:16-09-15"
+  },
+  "001B": {
+    "0": "1999:27-09-24",
+    "t": "20:57:27.000"
+  },
+  "001D": {
+    "0": "FGBA:12-11-15"
+  },
+  "001U": {
+    "0": "utf8"
+  },
+  "001X": {
+    "0": "0"
+  },
+  "002@": {
+    "0": "Aau"
+  },
+  "002C": {
+    "a": "Text",
+    "b": "txt"
+  },
+  "002D": {
+    "a": "ohne Hilfsmittel zu benutzen",
+    "b": "n"
+  },
+  "002E": {
+    "a": "Band",
+    "b": "nc"
+  },
+  "003@": {
+    "0": "1616489472"
+  },
+  "003D": {
+    "0": "830144641"
+  },
+  "003O": {
+    "0": "913961097",
+    "a": "OCoLC"
+  },
+  "003S": {
+    "0": "445470666"
+  },
+  "003T": {
+    "0": "913961097",
+    "a": "OCoLC"
+  },
+  "004A": {
+    "0": "9783894799502"
+  },
+  "004L": {
+    "0": "9783894799502"
+  },
+  "006G": {
+    "0": "1073542750"
+  },
+  "006U": {
+    "0": "15,A40"
+  },
+  "006X": {
+    "0": "913961097",
+    "i": "OCoLC"
+  },
+  "007G": {
+    "0": "445470666",
+    "i": "BSZ"
+  },
+  "007H": {
+    "0": "1073542750",
+    "i": "DNB"
+  },
+  "009@": {
+    "b": "mdedup"
+  },
+  "010@": {
+    "a": "ger"
+  },
+  "011@": {
+    "a": "2015"
+  },
+  "013D": {
+    "3": "209726091",
+    "7": "gnd/4143413-4",
+    "9": "105605727",
+    "V": "Tsvz",
+    "a": "Aufsatzsammlung"
+  },
+  "017G": {
+    "3": "Inhaltstext",
+    "5": "01",
+    "u": "http://deposit.dnb.de/cgi-bin/dokserv?id=5303124&prov=M&dok_var=1&dok_ext=htm",
+    "m": "X:MVB",
+    "q": "text/html"
+  },
+  "019@": {
+    "a": "XA-DE-BE"
+  },
+  "020I": {
+    "a": "Mitarbeiter und Freunde des Berliner Museums für Naturkunde stellen ihre Lieblingsstücke vor und berichten über ihre Arbeit."
+  },
+  "020K": {
+    "a": "\"Mit rund 30 Millionen Objekten zählt das Museum für Naturkunde Berlin als Leibniz-Institut für Evolutions- und Biodiversitätsforschung zu den größten naturkundlichen Forschungsmuseen der Welt\", heißt es im Vorwort. Entsprechend lang wäre die Liste der Objekte, welche das Museum beherbergt und teilweise in der Dauerausstellung zeigt, angefangen beim Archaeopteryx lithographica, dem Urvogel, bei Dinosauriern und anderen ausgestorbenen Tieren, Tierpräparaten, Alkoholpräparaten, Insekten- und Schmetterlingskästen bis hin zu Mineralien- und Meteoritensammlungen. Da ist es ganz natürlich, dass jeder der vielen Mitarbeiter, aber auch Besucher und bekannte Persönlichkeiten ihre Lieblingsstücke haben, die sich vielfach durch etwas Besonderes auszeichnen. Fast 100 kleine Beiträge sind es, die so über das Projekt \"Wissensdinge\" zusammenkamen und die ungeheure Vielfalt der Museumsbestände zeigen. Die Beiträge zeigen auch, aus wie vielen Quellen solch eine Sammlung gespeist wird, welche Raritäten und Werte dabei sind. Ein sehr empfehlenswertes Werk für naturhistorisch interessierte Leser. (3 S)"
+  },
+  "021A": {
+    "a": "Wissensdinge",
+    "d": "Geschichten aus dem Naturkundemuseum",
+    "h": "hrsg. von Anita Hermannstädter, Ina Heumann und Kerstin Pannhorst"
+  },
+  "028C": {
+    "d": "Kerstin",
+    "a": "Pannhorst"
+  },
+  "029F": {
+    "3": "326072160",
+    "4": "pbl",
+    "7": "gnd/6146046-1",
+    "9": "729500284",
+    "V": "Tbv1",
+    "w": "kif",
+    "A": "Nicolaische Buchhandlung",
+    "B": "Verlag"
+  },
+  "033A": {
+    "p": "Berlin",
+    "n": "Nicolaische Verlagsbuchhandlung"
+  },
+  "034D": {
+    "a": "288 S."
+  },
+  "034M": {
+    "a": "Ill."
+  },
+  "037A": {
+    "a": "Die im Buch vorgestellten Sammlungsstücke des Museums für Naturkunde Berlin sind chronologisch aufsteigend nach Jahreszahlen angeordnet."
+  },
+  "041A": {
+    "3": "210615117",
+    "7": "gnd/4263515-9",
+    "9": "104595329",
+    "occurrence": "01",
+    "V": "Tsv1",
+    "a": "Exponat"
+  },
+  "045B": {
+    "occurrence": "03",
+    "a": "N 050"
+  },
+  "045F": {
+    "e": "22/ger",
+    "a": "508.07443155"
+  },
+  "045G": {
+    "a": "500",
+    "A": "DNB"
+  },
+  "045H": {
+    "e": "DDC22ger",
+    "a": "508.07443155",
+    "c": "508",
+    "f": "074",
+    "g": "43155"
+  },
+  "045Q": {
+    "9": "181569701",
+    "occurrence": "01",
+    "V": "Tkv",
+    "a": "15.43",
+    "j": "Deutsche Geschichte des 19. Jahrhunderts bis zur Gegenwart"
+  },
+  "045R": {
+    "3": "202347923",
+    "7": "rvk/148027:13585",
+    "9": "1272347923",
+    "V": "Tkv",
+    "a": "WB 4521",
+    "j": "bd - bf",
+    "N": "WB 4510-WB 4799",
+    "J": "Einzelne Institutionen",
+    "A": "BVB"
+  },
+  "045V": {
+    "a": "8"
+  },
+  "101@": {
+    "a": "2532",
+    "c": "PICA"
+  },
+  "201A": {
+    "0": "28-06-24",
+    "occurrence": "01"
+  },
+  "201B": {
+    "0": "28-06-24",
+    "occurrence": "01",
+    "t": "15:34:34.000"
+  },
+  "201U": {
+    "0": "utf8",
+    "occurrence": "01"
+  },
+  "202D": {
+    "0": "25-04-23",
+    "occurrence": "01",
+    "b": "touchtitle_dubl",
+    "a": "20728"
+  },
+  "203@": {
+    "0": "4543285190",
+    "occurrence": "01"
+  },
+  "208@": {
+    "occurrence": "01",
+    "a": "28-06-24",
+    "b": "l01"
+  },
+  "209A": {
+    "occurrence": "01",
+    "B": "Hv 112",
+    "a": "2015 B 488",
+    "D": "p",
+    "x": "00"
+  },
+  "209B": {
+    "occurrence": "01",
+    "a": "konv",
+    "x": "12"
+  },
+  "209G": {
+    "occurrence": "01",
+    "a": "3714004181"
+  },
+  "101B": {
+    "0": "26-09-18",
+    "t": "15:32:02.000"
+  },
+  "101U": {
+    "0": "utf8"
+  },
+  "102D": {
+    "0": "25-04-23",
+    "b": "csf_mm_dubl",
+    "a": "20728"
+  },
+  "145Z": {
+    "a": "B. 813"
+  },
+  "209C": {
+    "occurrence": "01",
+    "a": "32709",
+    "x": "00"
+  },
+  "237B": {
+    "0": "2017-08",
+    "occurrence": "01"
+  },
+  "220B": {
+    "occurrence": "01",
+    "a": "automat"
+  },
+  "245Z": {
+    "3": "224225979",
+    "9": "1294225979",
+    "occurrence": "01",
+    "V": "Tei",
+    "a": "DK 914.301",
+    "x": "02"
+  },
+  "201D": {
+    "0": "H1BGR:28-06-24",
+    "occurrence": "01"
+  },
+  "203S": {
+    "0": "902825437",
+    "occurrence": "01"
+  },
+  "206X": {
+    "0": "06317744",
+    "occurrence": "01"
+  },
+  "244Z": {
+    "occurrence": "01",
+    "S": "s",
+    "a": "Sammlungsobjekt",
+    "x": "01"
+  }
+}

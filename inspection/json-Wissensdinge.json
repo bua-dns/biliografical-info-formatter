@@ -1,0 +1,3527 @@
+[
+  {
+    "001@": {
+      "tag": "001@",
+      "subfield": {
+        "_": "11,21-22,39-40,50,100,181,702,2018,2027,2337,2356,2532",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "001A": {
+      "tag": "001A",
+      "subfield": {
+        "_": "FGBA:16-09-15",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "001B": {
+      "tag": "001B",
+      "subfield": [
+        {
+          "_": "1999:27-09-24",
+          "code": "0"
+        },
+        {
+          "_": "20:57:27.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "001D": {
+      "tag": "001D",
+      "subfield": {
+        "_": "FGBA:12-11-15",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "001U": {
+      "tag": "001U",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "001X": {
+      "tag": "001X",
+      "subfield": {
+        "_": "0",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "002@": {
+      "tag": "002@",
+      "subfield": {
+        "_": "Aau",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "002C": {
+      "tag": "002C",
+      "subfield": [
+        {
+          "_": "Text",
+          "code": "a"
+        },
+        {
+          "_": "txt",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "002D": {
+      "tag": "002D",
+      "subfield": [
+        {
+          "_": "ohne Hilfsmittel zu benutzen",
+          "code": "a"
+        },
+        {
+          "_": "n",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "002E": {
+      "tag": "002E",
+      "subfield": [
+        {
+          "_": "Band",
+          "code": "a"
+        },
+        {
+          "_": "nc",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "003@": {
+      "tag": "003@",
+      "subfield": {
+        "_": "1616489472",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "003D": {
+      "tag": "003D",
+      "subfield": {
+        "_": "830144641",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "003O": {
+      "tag": "003O",
+      "subfield": [
+        {
+          "_": "OCoLC",
+          "code": "a"
+        },
+        {
+          "_": "913961097",
+          "code": "0"
+        }
+      ]
+    }
+  },
+  {
+    "003S": {
+      "tag": "003S",
+      "subfield": {
+        "_": "445470666",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "003T": {
+      "tag": "003T",
+      "subfield": [
+        {
+          "_": "OCoLC",
+          "code": "a"
+        },
+        {
+          "_": "913961097",
+          "code": "0"
+        }
+      ]
+    }
+  },
+  {
+    "004A": {
+      "tag": "004A",
+      "subfield": {
+        "_": "9783894799502",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "004L": {
+      "tag": "004L",
+      "subfield": {
+        "_": "9783894799502",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "006G": {
+      "tag": "006G",
+      "subfield": {
+        "_": "1073542750",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "006U": {
+      "tag": "006U",
+      "subfield": {
+        "_": "15,A40",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "006X": {
+      "tag": "006X",
+      "subfield": [
+        {
+          "_": "OCoLC",
+          "code": "i"
+        },
+        {
+          "_": "913961097",
+          "code": "0"
+        }
+      ]
+    }
+  },
+  {
+    "007G": {
+      "tag": "007G",
+      "subfield": [
+        {
+          "_": "BSZ",
+          "code": "i"
+        },
+        {
+          "_": "445470666",
+          "code": "0"
+        }
+      ]
+    }
+  },
+  {
+    "007H": {
+      "tag": "007H",
+      "subfield": [
+        {
+          "_": "DNB",
+          "code": "i"
+        },
+        {
+          "_": "1073542750",
+          "code": "0"
+        }
+      ]
+    }
+  },
+  {
+    "009@": {
+      "tag": "009@",
+      "subfield": {
+        "_": "mdedup",
+        "code": "b"
+      }
+    }
+  },
+  {
+    "010@": {
+      "tag": "010@",
+      "subfield": {
+        "_": "ger",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "011@": {
+      "tag": "011@",
+      "subfield": {
+        "_": "2015",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "013D": {
+      "tag": "013D",
+      "subfield": [
+        {
+          "_": "105605727",
+          "code": "9"
+        },
+        {
+          "_": "Tsvz",
+          "code": "V"
+        },
+        {
+          "_": "209726091",
+          "code": "3"
+        },
+        {
+          "_": "gnd/4143413-4",
+          "code": "7"
+        },
+        {
+          "_": "Aufsatzsammlung",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "017G": {
+      "tag": "017G",
+      "subfield": [
+        {
+          "_": "http://d-nb.info/1073542750/04",
+          "code": "u"
+        },
+        {
+          "_": "B:DE-101",
+          "code": "m"
+        },
+        {
+          "_": "application/pdf",
+          "code": "q"
+        },
+        {
+          "_": "Inhaltsverzeichnis",
+          "code": "3"
+        },
+        {
+          "_": "04",
+          "code": "5"
+        }
+      ]
+    }
+  },
+  {
+    "017G": {
+      "tag": "017G",
+      "subfield": [
+        {
+          "_": "http://deposit.dnb.de/cgi-bin/dokserv?id=5303124&prov=M&dok_var=1&dok_ext=htm",
+          "code": "u"
+        },
+        {
+          "_": "X:MVB",
+          "code": "m"
+        },
+        {
+          "_": "text/html",
+          "code": "q"
+        },
+        {
+          "_": "Inhaltstext",
+          "code": "3"
+        },
+        {
+          "_": "01",
+          "code": "5"
+        }
+      ]
+    }
+  },
+  {
+    "019@": {
+      "tag": "019@",
+      "subfield": {
+        "_": "XA-DE-BE",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "020I": {
+      "tag": "020I",
+      "subfield": {
+        "_": "Mitarbeiter und Freunde des Berliner Museums für Naturkunde stellen ihre Lieblingsstücke vor und berichten über ihre Arbeit.",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "020K": {
+      "tag": "020K",
+      "subfield": {
+        "_": "\"Mit rund 30 Millionen Objekten zählt das Museum für Naturkunde Berlin als Leibniz-Institut für Evolutions- und Biodiversitätsforschung zu den größten naturkundlichen Forschungsmuseen der Welt\", heißt es im Vorwort. Entsprechend lang wäre die Liste der Objekte, welche das Museum beherbergt und teilweise in der Dauerausstellung zeigt, angefangen beim Archaeopteryx lithographica, dem Urvogel, bei Dinosauriern und anderen ausgestorbenen Tieren, Tierpräparaten, Alkoholpräparaten, Insekten- und Schmetterlingskästen bis hin zu Mineralien- und Meteoritensammlungen. Da ist es ganz natürlich, dass jeder der vielen Mitarbeiter, aber auch Besucher und bekannte Persönlichkeiten ihre Lieblingsstücke haben, die sich vielfach durch etwas Besonderes auszeichnen. Fast 100 kleine Beiträge sind es, die so über das Projekt \"Wissensdinge\" zusammenkamen und die ungeheure Vielfalt der Museumsbestände zeigen. Die Beiträge zeigen auch, aus wie vielen Quellen solch eine Sammlung gespeist wird, welche Raritäten und Werte dabei sind. Ein sehr empfehlenswertes Werk für naturhistorisch interessierte Leser. (3 S)",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "021A": {
+      "tag": "021A",
+      "subfield": [
+        {
+          "_": "Wissensdinge",
+          "code": "a"
+        },
+        {
+          "_": "Geschichten aus dem Naturkundemuseum",
+          "code": "d"
+        },
+        {
+          "_": "hrsg. von Anita Hermannstädter, Ina Heumann und Kerstin Pannhorst",
+          "code": "h"
+        }
+      ]
+    }
+  },
+  {
+    "028C": {
+      "tag": "028C",
+      "subfield": [
+        {
+          "_": "644332522",
+          "code": "9"
+        },
+        {
+          "_": "Tpv3",
+          "code": "V"
+        },
+        {
+          "_": "gnd/123833736",
+          "code": "7"
+        },
+        {
+          "_": "335912400",
+          "code": "3"
+        },
+        {
+          "_": "piz",
+          "code": "w"
+        },
+        {
+          "_": "Hermannstädter",
+          "code": "A"
+        },
+        {
+          "_": "Anita",
+          "code": "D"
+        },
+        {
+          "_": "1967",
+          "code": "E"
+        }
+      ]
+    }
+  },
+  {
+    "028C": {
+      "tag": "028C",
+      "subfield": [
+        {
+          "_": "807043427",
+          "code": "9"
+        },
+        {
+          "_": "Tpv3",
+          "code": "V"
+        },
+        {
+          "_": "gnd/106292438X",
+          "code": "7"
+        },
+        {
+          "_": "420287965",
+          "code": "3"
+        },
+        {
+          "_": "piz",
+          "code": "w"
+        },
+        {
+          "_": "Heumann",
+          "code": "A"
+        },
+        {
+          "_": "Ina",
+          "code": "D"
+        }
+      ]
+    }
+  },
+  {
+    "028C": {
+      "tag": "028C",
+      "subfield": [
+        {
+          "_": "Kerstin",
+          "code": "d"
+        },
+        {
+          "_": "Pannhorst",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "029F": {
+      "tag": "029F",
+      "subfield": [
+        {
+          "_": "10085981X",
+          "code": "9"
+        },
+        {
+          "_": "Tbv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/37657-7",
+          "code": "7"
+        },
+        {
+          "_": "190354151",
+          "code": "3"
+        },
+        {
+          "_": "kiz",
+          "code": "w"
+        },
+        {
+          "_": "Museum für Naturkunde Berlin",
+          "code": "A"
+        }
+      ]
+    }
+  },
+  {
+    "029F": {
+      "tag": "029F",
+      "subfield": [
+        {
+          "_": "729500284",
+          "code": "9"
+        },
+        {
+          "_": "Tbv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/6146046-1",
+          "code": "7"
+        },
+        {
+          "_": "326072160",
+          "code": "3"
+        },
+        {
+          "_": "kif",
+          "code": "w"
+        },
+        {
+          "_": "Nicolaische Buchhandlung",
+          "code": "A"
+        },
+        {
+          "_": "Verlag",
+          "code": "B"
+        },
+        {
+          "_": "pbl",
+          "code": "4"
+        }
+      ]
+    }
+  },
+  {
+    "033A": {
+      "tag": "033A",
+      "subfield": [
+        {
+          "_": "Berlin",
+          "code": "p"
+        },
+        {
+          "_": "Nicolaische Verlagsbuchhandlung",
+          "code": "n"
+        }
+      ]
+    }
+  },
+  {
+    "034D": {
+      "tag": "034D",
+      "subfield": {
+        "_": "288 S.",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "034M": {
+      "tag": "034M",
+      "subfield": {
+        "_": "Ill.",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "037A": {
+      "tag": "037A",
+      "subfield": {
+        "_": "\"Entstanden im Rahmen des Forschungsprojekts 'Wissensdinge' am Museum für Naturkunde Berlin, 2013-2015\" (S. [4])",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "037A": {
+      "tag": "037A",
+      "subfield": {
+        "_": "Literaturverz. S. 283 - 288",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "037A": {
+      "tag": "037A",
+      "subfield": {
+        "_": "Die im Buch vorgestellten Sammlungsstücke des Museums für Naturkunde Berlin sind chronologisch aufsteigend nach Jahreszahlen angeordnet.",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "041A": {
+      "tag": "041A",
+      "subfield": [
+        {
+          "_": "10085981X",
+          "code": "9"
+        },
+        {
+          "_": "Tbv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/37657-7",
+          "code": "7"
+        },
+        {
+          "_": "190354151",
+          "code": "3"
+        },
+        {
+          "_": "Museum für Naturkunde Berlin",
+          "code": "A"
+        }
+      ]
+    }
+  },
+  {
+    "041A": {
+      "tag": "041A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "104595329",
+          "code": "9"
+        },
+        {
+          "_": "Tsv1",
+          "code": "V"
+        },
+        {
+          "_": "gnd/4263515-9",
+          "code": "7"
+        },
+        {
+          "_": "210615117",
+          "code": "3"
+        },
+        {
+          "_": "Exponat",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "045B": {
+      "tag": "045B",
+      "subfield": {
+        "_": "Uar",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "045B": {
+      "tag": "045B",
+      "occurrence": "01",
+      "subfield": {
+        "_": "UAR",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "045B": {
+      "tag": "045B",
+      "occurrence": "02",
+      "subfield": {
+        "_": "Nat 26",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "045B": {
+      "tag": "045B",
+      "occurrence": "03",
+      "subfield": {
+        "_": "N 050",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "045F": {
+      "tag": "045F",
+      "subfield": {
+        "_": "500",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "045F": {
+      "tag": "045F",
+      "subfield": [
+        {
+          "_": "22/ger",
+          "code": "e"
+        },
+        {
+          "_": "508.07443155",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "045G": {
+      "tag": "045G",
+      "subfield": [
+        {
+          "_": "500",
+          "code": "a"
+        },
+        {
+          "_": "DNB",
+          "code": "A"
+        }
+      ]
+    }
+  },
+  {
+    "045H": {
+      "tag": "045H",
+      "subfield": [
+        {
+          "_": "DDC22ger",
+          "code": "e"
+        },
+        {
+          "_": "508.07443155",
+          "code": "a"
+        },
+        {
+          "_": "508",
+          "code": "c"
+        },
+        {
+          "_": "074",
+          "code": "f"
+        },
+        {
+          "_": "43155",
+          "code": "g"
+        }
+      ]
+    }
+  },
+  {
+    "045Q": {
+      "tag": "045Q",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "106410113",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "42.05",
+          "code": "a"
+        },
+        {
+          "_": "Naturgeschichte",
+          "code": "j"
+        }
+      ]
+    }
+  },
+  {
+    "045Q": {
+      "tag": "045Q",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "106403192",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "02.30",
+          "code": "a"
+        },
+        {
+          "_": "Museumskunde",
+          "code": "j"
+        }
+      ]
+    }
+  },
+  {
+    "045Q": {
+      "tag": "045Q",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "181569736",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "15.42",
+          "code": "a"
+        },
+        {
+          "_": "Deutsche Geschichte 1500-1800",
+          "code": "j"
+        }
+      ]
+    }
+  },
+  {
+    "045Q": {
+      "tag": "045Q",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "181569701",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "15.43",
+          "code": "a"
+        },
+        {
+          "_": "Deutsche Geschichte des 19. Jahrhunderts bis zur Gegenwart",
+          "code": "j"
+        }
+      ]
+    }
+  },
+  {
+    "045R": {
+      "tag": "045R",
+      "subfield": [
+        {
+          "_": "1271033526",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "rvk/2727:10968",
+          "code": "7"
+        },
+        {
+          "_": "201033526",
+          "code": "3"
+        },
+        {
+          "_": "AK 88070",
+          "code": "a"
+        },
+        {
+          "_": "Berlin",
+          "code": "j"
+        },
+        {
+          "_": "A",
+          "code": "N"
+        },
+        {
+          "_": "Allgemeines",
+          "code": "J"
+        },
+        {
+          "_": "AK 80000-AK 89990",
+          "code": "N"
+        },
+        {
+          "_": "Museumswesen, Museologie, Museumswissenschaft",
+          "code": "J"
+        },
+        {
+          "_": "AK 88000-AK 89990",
+          "code": "N"
+        },
+        {
+          "_": "Einzelne Museen",
+          "code": "J"
+        },
+        {
+          "_": "AK 88020-AK 88999",
+          "code": "N"
+        },
+        {
+          "_": "Deutschland",
+          "code": "J"
+        },
+        {
+          "_": "BVB",
+          "code": "A"
+        }
+      ]
+    }
+  },
+  {
+    "045R": {
+      "tag": "045R",
+      "subfield": [
+        {
+          "_": "1272347923",
+          "code": "9"
+        },
+        {
+          "_": "Tkv",
+          "code": "V"
+        },
+        {
+          "_": "rvk/148027:13585",
+          "code": "7"
+        },
+        {
+          "_": "202347923",
+          "code": "3"
+        },
+        {
+          "_": "WB 4521",
+          "code": "a"
+        },
+        {
+          "_": "bd - bf",
+          "code": "j"
+        },
+        {
+          "_": "W",
+          "code": "N"
+        },
+        {
+          "_": "Biologie",
+          "code": "J"
+        },
+        {
+          "_": "WB",
+          "code": "N"
+        },
+        {
+          "_": "Bibliografien und Nachschlagewerke, Geschichte und Didaktik, Lehrbücher der Biologie",
+          "code": "J"
+        },
+        {
+          "_": "WB 4500",
+          "code": "N"
+        },
+        {
+          "_": "Forschungsstationen, Museen, Spezialsammlungen, Botanische und Zoologische Gärten",
+          "code": "J"
+        },
+        {
+          "_": "WB 4510-WB 4799",
+          "code": "N"
+        },
+        {
+          "_": "Einzelne Institutionen",
+          "code": "J"
+        },
+        {
+          "_": "BVB",
+          "code": "A"
+        }
+      ]
+    }
+  },
+  {
+    "045V": {
+      "tag": "045V",
+      "subfield": {
+        "_": "8",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "11",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1590383109",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "08-03-16",
+          "code": "a"
+        },
+        {
+          "_": "k",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "2",
+          "code": "f"
+        },
+        {
+          "_": "1 B 167910",
+          "code": "a"
+        },
+        {
+          "_": "u",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209B": {
+      "tag": "209B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "71§5§99§99§99§§§1§0",
+          "code": "a"
+        },
+        {
+          "_": "31",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209B": {
+      "tag": "209B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "1B167910§§§§§§§§§§",
+          "code": "a"
+        },
+        {
+          "_": "32",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "161416768010",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "21",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "101B": {
+      "tag": "101B",
+      "subfield": [
+        {
+          "_": "11-05-16",
+          "code": "0"
+        },
+        {
+          "_": "16:41:43.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "101U": {
+      "tag": "101U",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "102D": {
+      "tag": "102D",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "csf_mm_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "145Z": {
+      "tag": "145Z",
+      "occurrence": "30",
+      "subfield": {
+        "_": "nat 433",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "145Z": {
+      "tag": "145Z",
+      "occurrence": "99",
+      "subfield": {
+        "_": "09",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1602456372",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "11-05-16",
+          "code": "a"
+        },
+        {
+          "_": "zza",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "Magazin",
+          "code": "f"
+        },
+        {
+          "_": "02.p.1342",
+          "code": "a"
+        },
+        {
+          "_": "u",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "2016-02492",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "46$0005524326",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "22",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1580985149",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "23-11-15",
+          "code": "a"
+        },
+        {
+          "_": "zu",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "SUB",
+          "code": "f"
+        },
+        {
+          "_": "B/151182",
+          "code": "a"
+        },
+        {
+          "_": "u",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "946875739",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "39",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "101B": {
+      "tag": "101B",
+      "subfield": [
+        {
+          "_": "30-10-15",
+          "code": "0"
+        },
+        {
+          "_": "09:23:50.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "101U": {
+      "tag": "101U",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "102D": {
+      "tag": "102D",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "csf_mm_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "145Z": {
+      "tag": "145Z",
+      "subfield": {
+        "_": "AK 88070",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "145Z": {
+      "tag": "145Z",
+      "occurrence": "01",
+      "subfield": {
+        "_": "WB 4521",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1570602336",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "02-11-15",
+          "code": "a"
+        },
+        {
+          "_": "zet1",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "LS",
+          "code": "f"
+        },
+        {
+          "_": "AK 88070 H552",
+          "code": "a"
+        },
+        {
+          "_": "g",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "2015022577",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "547$015294080",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "02",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "02",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "02",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "02",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "02",
+      "subfield": {
+        "_": "1633187365",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "02",
+      "subfield": [
+        {
+          "_": "29-08-16",
+          "code": "a"
+        },
+        {
+          "_": "zgt5",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "02",
+      "subfield": [
+        {
+          "_": "547",
+          "code": "b"
+        },
+        {
+          "_": "039",
+          "code": "j"
+        },
+        {
+          "_": "FBG PLS",
+          "code": "f"
+        },
+        {
+          "_": "AK 88070 H552",
+          "code": "a"
+        },
+        {
+          "_": "g",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "02",
+      "subfield": [
+        {
+          "_": "Forschungsbibliothek Gotha",
+          "code": "a"
+        },
+        {
+          "_": "05",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "02",
+      "subfield": [
+        {
+          "_": "2016005261",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "02",
+      "subfield": {
+        "_": "547$015364860",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "40",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1699118124",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "08-08-17",
+          "code": "a"
+        },
+        {
+          "_": "zi053",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "BBK-HIST",
+          "code": "f"
+        },
+        {
+          "_": "W V 6332",
+          "code": "a"
+        },
+        {
+          "_": "i",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "2017.0642",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "7$234145897",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "237B": {
+      "tag": "237B",
+      "occurrence": "01",
+      "subfield": {
+        "_": "2017-08",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "50",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1566960517",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "19-09-16",
+          "code": "a"
+        },
+        {
+          "_": "k",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "66.4° 544",
+          "code": "a"
+        },
+        {
+          "_": "u",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "66/4f/000544",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "23$13739220",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "100",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "101B": {
+      "tag": "101B",
+      "subfield": [
+        {
+          "_": "26-09-18",
+          "code": "0"
+        },
+        {
+          "_": "15:32:02.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "101U": {
+      "tag": "101U",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "102D": {
+      "tag": "102D",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "csf_mm_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "145Z": {
+      "tag": "145Z",
+      "subfield": {
+        "_": "B. 813",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "11-09-24",
+          "code": "0"
+        },
+        {
+          "_": "14:51:49.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "11-09-24",
+          "code": "0"
+        },
+        {
+          "_": "3739",
+          "code": "b"
+        },
+        {
+          "_": "3100",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1804742848",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "11-09-24",
+          "code": "a"
+        },
+        {
+          "_": "k",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "FH",
+          "code": "f"
+        },
+        {
+          "_": "2018.03662:1",
+          "code": "a"
+        },
+        {
+          "_": "u",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "MA9$008040710",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "220B": {
+      "tag": "220B",
+      "occurrence": "01",
+      "subfield": {
+        "_": "Ehemals Semesterapparat",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "181",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1578966604",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "06-11-15",
+          "code": "a"
+        },
+        {
+          "_": "zb050",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "3181",
+          "code": "b"
+        },
+        {
+          "_": "050",
+          "code": "j"
+        },
+        {
+          "_": "IFM",
+          "code": "f"
+        },
+        {
+          "_": "D.8.Mna 2015",
+          "code": "a"
+        },
+        {
+          "_": "i",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "IFM G 115.357",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "702",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "25-04-23",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "18:24:15.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "202D": {
+      "tag": "202D",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "25-04-23",
+          "code": "0"
+        },
+        {
+          "_": "touchtitle_dubl",
+          "code": "b"
+        },
+        {
+          "_": "20728",
+          "code": "a"
+        }
+      ]
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "1635421500",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "30-08-16",
+          "code": "a"
+        },
+        {
+          "_": "nk",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "3714",
+          "code": "b"
+        },
+        {
+          "_": "0001",
+          "code": "j"
+        },
+        {
+          "_": "500 W8165",
+          "code": "a"
+        },
+        {
+          "_": "i",
+          "code": "d"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "15-1818",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209G": {
+      "tag": "209G",
+      "occurrence": "01",
+      "subfield": {
+        "_": "3714004181",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "245Z": {
+      "tag": "245Z",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "500.074",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "2018",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "04",
+      "subfield": {
+        "_": "04-12-15",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "04",
+      "subfield": [
+        {
+          "_": "11-12-15",
+          "code": "0"
+        },
+        {
+          "_": "12:52:46.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201D": {
+      "tag": "201D",
+      "occurrence": "04",
+      "subfield": {
+        "_": "KALB:04-12-15",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "04",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "04",
+      "subfield": {
+        "_": "3200621362",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203S": {
+      "tag": "203S",
+      "occurrence": "04",
+      "subfield": {
+        "_": "875109829",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "04",
+      "subfield": [
+        {
+          "_": "04-12-15",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "04",
+      "subfield": [
+        {
+          "_": "31",
+          "code": "B"
+        },
+        {
+          "_": "l",
+          "code": "J"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209B": {
+      "tag": "209B",
+      "occurrence": "04",
+      "subfield": [
+        {
+          "_": "adis",
+          "code": "a"
+        },
+        {
+          "_": "12",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "2027",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "16-09-15",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "12-11-15",
+          "code": "0"
+        },
+        {
+          "_": "10:47:50.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201D": {
+      "tag": "201D",
+      "occurrence": "01",
+      "subfield": {
+        "_": "FGBA:16-09-15",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "320062146X",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203S": {
+      "tag": "203S",
+      "occurrence": "01",
+      "subfield": {
+        "_": "863103871",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "16-09-15",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "105",
+          "code": "B"
+        },
+        {
+          "_": "15.4652 4.",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "220B": {
+      "tag": "220B",
+      "occurrence": "01",
+      "subfield": {
+        "_": "automat",
+        "code": "a"
+      }
+    }
+  },
+  {
+    "245Z": {
+      "tag": "245Z",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "1294386905",
+          "code": "9"
+        },
+        {
+          "_": "Tei",
+          "code": "V"
+        },
+        {
+          "_": "224386905",
+          "code": "3"
+        },
+        {
+          "_": "DK 069.5",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "245Z": {
+      "tag": "245Z",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "1294421085",
+          "code": "9"
+        },
+        {
+          "_": "Tei",
+          "code": "V"
+        },
+        {
+          "_": "224421085",
+          "code": "3"
+        },
+        {
+          "_": "DK 069.02",
+          "code": "a"
+        },
+        {
+          "_": "01",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "245Z": {
+      "tag": "245Z",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "1294225979",
+          "code": "9"
+        },
+        {
+          "_": "Tei",
+          "code": "V"
+        },
+        {
+          "_": "224225979",
+          "code": "3"
+        },
+        {
+          "_": "DK 914.301",
+          "code": "a"
+        },
+        {
+          "_": "02",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "2337",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "27-11-24",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "27-11-24",
+          "code": "0"
+        },
+        {
+          "_": "18:22:31.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201D": {
+      "tag": "201D",
+      "occurrence": "01",
+      "subfield": {
+        "_": "DDHM:27-11-24",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "4623605671",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "206X": {
+      "tag": "206X",
+      "occurrence": "01",
+      "subfield": {
+        "_": "0013250",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "27-11-24",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "D 15",
+          "code": "B"
+        },
+        {
+          "_": "17/530",
+          "code": "a"
+        },
+        {
+          "_": "p",
+          "code": "D"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209B": {
+      "tag": "209B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "konv",
+          "code": "a"
+        },
+        {
+          "_": "12",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "15:253",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "244Z": {
+      "tag": "244Z",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "s",
+          "code": "S"
+        },
+        {
+          "_": "Museum für Naturkunde <Berlin>",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "244Z": {
+      "tag": "244Z",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "s",
+          "code": "S"
+        },
+        {
+          "_": "Sammlungsobjekt",
+          "code": "a"
+        },
+        {
+          "_": "01",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "2356",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "14-03-16",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "14-03-16",
+          "code": "0"
+        },
+        {
+          "_": "11:42:12.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201D": {
+      "tag": "201D",
+      "occurrence": "01",
+      "subfield": {
+        "_": "KALN:14-03-16",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "3200621524",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203S": {
+      "tag": "203S",
+      "occurrence": "01",
+      "subfield": {
+        "_": "902825437",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "14-03-16",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "Ka 83",
+          "code": "B"
+        },
+        {
+          "_": "Museumspädagogik",
+          "code": "f"
+        },
+        {
+          "_": "p",
+          "code": "D"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209B": {
+      "tag": "209B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "Kauf",
+          "code": "a"
+        },
+        {
+          "_": "12",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209C": {
+      "tag": "209C",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "32709",
+          "code": "a"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "101@": {
+      "tag": "101@",
+      "subfield": [
+        {
+          "_": "2532",
+          "code": "a"
+        },
+        {
+          "_": "PICA",
+          "code": "c"
+        }
+      ]
+    }
+  },
+  {
+    "201A": {
+      "tag": "201A",
+      "occurrence": "01",
+      "subfield": {
+        "_": "28-06-24",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201B": {
+      "tag": "201B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "28-06-24",
+          "code": "0"
+        },
+        {
+          "_": "15:34:34.000",
+          "code": "t"
+        }
+      ]
+    }
+  },
+  {
+    "201D": {
+      "tag": "201D",
+      "occurrence": "01",
+      "subfield": {
+        "_": "H1BGR:28-06-24",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "201U": {
+      "tag": "201U",
+      "occurrence": "01",
+      "subfield": {
+        "_": "utf8",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "203@": {
+      "tag": "203@",
+      "occurrence": "01",
+      "subfield": {
+        "_": "4543285190",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "206X": {
+      "tag": "206X",
+      "occurrence": "01",
+      "subfield": {
+        "_": "06317744",
+        "code": "0"
+      }
+    }
+  },
+  {
+    "208@": {
+      "tag": "208@",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "28-06-24",
+          "code": "a"
+        },
+        {
+          "_": "l01",
+          "code": "b"
+        }
+      ]
+    }
+  },
+  {
+    "209A": {
+      "tag": "209A",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "Hv 112",
+          "code": "B"
+        },
+        {
+          "_": "2015 B 488",
+          "code": "a"
+        },
+        {
+          "_": "p",
+          "code": "D"
+        },
+        {
+          "_": "00",
+          "code": "x"
+        }
+      ]
+    }
+  },
+  {
+    "209B": {
+      "tag": "209B",
+      "occurrence": "01",
+      "subfield": [
+        {
+          "_": "konv",
+          "code": "a"
+        },
+        {
+          "_": "12",
+          "code": "x"
+        }
+      ]
+    }
+  }
+]
