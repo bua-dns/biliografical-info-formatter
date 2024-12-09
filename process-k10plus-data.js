@@ -3,88 +3,146 @@ import path from 'path';
 import { parseStringPromise } from 'xml2js';
 import { formatCitation } from './modules/format-citation.js';
 
-const root = process.cwd();
 
-async function fetchAndSaveXmlAsJson (params) {
-    const { id, label } = params;
+// Constants
+const BASE_URL = process.env.XML_BASE_URL || 'https://sru.k10plus.de/opac-de-627';
+const OUTPUT_DIR = path.resolve(process.cwd(), 'inspection');
+const CITATION_DIR = path.resolve(process.cwd(), 'output');
+
+// Utility Function: Ensure Directory
+const ensureDirectoryExists = async (dirPath) => {
     try {
-        // Configure the target ID and label for the request and output file
-        const xmlUrl = `https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=${id}&recordSchema=picaxml&startRecord=1&maximumRecords=1`;
-
-        console.log('Fetching XML data...');
-        const response = await fetch(xmlUrl);
-        if (!response.ok) {
-            throw new Error(`Failed to fetch XML: ${response.statusText}`);
-        }
-
-        const xmlData = await response.text();
-        await fs.writeFile(path.join(root, 'inspection', `xml-${label}.xml`), xmlData, 'utf8');
-
-        console.log('Parsing XML to JSON...');
-        const jsonData = await parseStringPromise(xmlData, {
-            explicitArray: false, // Simplifies resulting JSON structure
-            mergeAttrs: true, // Combines attributes and child elements
-        });
-
-        // Reduce and map the JSON data
-        const reducedJsonData = jsonData['zs:searchRetrieveResponse']['zs:records']['zs:record']['zs:recordData']['record']['datafield'];
-        const mappedJSONData = reducedJsonData.map((data) => {
-            return {
-                [data['tag']]: data,
-            };
-        });
-        fs.writeFile(path.join(root, 'inspection', `json-${label}.json`), JSON.stringify(mappedJSONData, null, 2), 'utf8');
-        // Convert mapped data to a structured object
-        let dataObject = {};
-        mappedJSONData.forEach((item) => {
-            const key = Object.keys(item)[0];
-            dataObject[key] = item[key];
-        });
-
-        // Process subfields to generate subMetadata
-        for (let entry in dataObject) {
-            if (dataObject[entry].subfield) {
-                // Handle both array and non-array cases for `subfield`
-                if (Array.isArray(dataObject[entry].subfield)) {
-                    for (let sub of dataObject[entry].subfield) {
-                        if (sub.code && sub._) {
-                            dataObject[entry][sub.code] = sub._;
-                            // dataObject[entry].subMetadata[sub.code] = sub._;
-                        }
-                    }
-                } else if (dataObject[entry].subfield.code && dataObject[entry].subfield._) {
-                    // dataObject[entry].subMetadata[dataObject[entry].subfield.code] = dataObject[entry].subfield._;
-                    dataObject[entry][dataObject[entry].subfield.code] = dataObject[entry].subfield._;
-                }
-            }
-            delete dataObject[entry].subfield
-            delete dataObject[entry].tag
-        }
-
-        // Define the output directory and file path
-        const outputDir = path.resolve('./inspection');
-        const outputFile = path.join(outputDir, `bibliographical-info-${label}.json`);
-
-        // Ensure the directory exists
-        await fs.mkdir(outputDir, { recursive: true });
-
-        console.log(`Saving JSON to ${outputFile}...`);
-        await fs.writeFile(outputFile, JSON.stringify(dataObject, null, 2), 'utf8');
-        
-        const citation = formatCitation(dataObject, 'dns');
-        // fs.writeFileSync(path.join(root, 'output', `citation-${label}.txt`), citation, 'utf8');
-        const outputCitationDir = path.join(root, 'output');
-        await fs.mkdir(outputCitationDir, { recursive: true });
-        await fs.writeFile(path.join(root, 'output', `citation-${label}.json`), JSON.stringify(citation, null, 2), 'utf8');
-
-        console.log('JSON file saved successfully!');
+        await fs.mkdir(dirPath, { recursive: true });
     } catch (error) {
-        console.error('Error:', error.message);
+        console.error(`Failed to create directory: ${dirPath}`, error.message);
+        throw error;
     }
 };
 
-// Run the function
+// Fetch XML Data
+const fetchXmlData = async (id) => {
+    const url = `${BASE_URL}?version=1.1&operation=searchRetrieve&query=pica.ppn=${id}&recordSchema=picaxml&startRecord=1&maximumRecords=1`;
+    console.log(`Fetching XML from: ${url}`);
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Failed to fetch XML: ${response.statusText} (Status: ${response.status})`);
+        }
+        return await response.text();
+    } catch (error) {
+        console.error(`Error fetching XML: ${error.message}`);
+        throw error;
+    }
+};
+
+// Parse XML to JSON
+const parseXmlToJson = async (xmlData) => {
+    try {
+        return await parseStringPromise(xmlData, {
+            explicitArray: false,
+            mergeAttrs: true,
+        });
+    } catch (error) {
+        console.error('Error parsing XML to JSON:', error.message);
+        throw error;
+    }
+};
+
+// Reduce and Map JSON Data
+const transformJsonData = (jsonData) => {
+    try {
+        const reducedData = jsonData['zs:searchRetrieveResponse']['zs:records']['zs:record']['zs:recordData']['record']['datafield'];
+        return reducedData.map((field) => {
+            const tag = field['tag'];
+            return { [tag]: field };
+        });
+    } catch (error) {
+        console.error('Error reducing JSON data:', error.message);
+        throw error;
+    }
+};
+
+// Generate and Save Transformed JSON
+const saveJsonFile = async (filePath, data) => {
+    try {
+        await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8');
+        console.log(`JSON saved successfully at: ${filePath}`);
+    } catch (error) {
+        console.error(`Error saving JSON to ${filePath}:`, error.message);
+        throw error;
+    }
+};
+
+// Enhance JSON Data with Subfield Mapping
+const enhanceJsonData = (mappedData) => {
+    const enhancedData = {};
+
+    mappedData.forEach((item) => {
+        const key = Object.keys(item)[0];
+        const entry = item[key];
+
+        // Flatten subfield data
+        const flattenedEntry = {};
+        if (entry.subfield) {
+            if (Array.isArray(entry.subfield)) {
+                entry.subfield.forEach((sub) => {
+                    if (sub.code && sub._) {
+                        flattenedEntry[sub.code] = sub._;
+                    }
+                });
+            } else if (entry.subfield.code && entry.subfield._) {
+                flattenedEntry[entry.subfield.code] = entry.subfield._;
+            }
+        }
+
+        // Add or append the flattened entry to the result object
+        if (!enhancedData[key]) {
+            enhancedData[key] = [];
+        }
+        enhancedData[key].push(flattenedEntry);
+    });
+
+    return enhancedData;
+};
+
+// Main Function: Fetch and Process Data
+const fetchAndSaveXmlAsJson = async ({ id, label }) => {
+    try {
+        await ensureDirectoryExists(OUTPUT_DIR);
+        await ensureDirectoryExists(CITATION_DIR);
+
+        const xmlData = await fetchXmlData(id);
+        const xmlFilePath = path.join(OUTPUT_DIR, `xml-${label}.xml`);
+        await fs.writeFile(xmlFilePath, xmlData, 'utf8');
+        console.log(`Raw XML saved at: ${xmlFilePath}`);
+
+        const jsonData = await parseXmlToJson(xmlData);
+        const mappedData = transformJsonData(jsonData);
+        const enhancedData = enhanceJsonData(mappedData);
+
+        const jsonFilePath = path.join(OUTPUT_DIR, `bibliographical-info-${label}.json`);
+        await saveJsonFile(jsonFilePath, enhancedData);
+
+        const citation = formatCitation(enhancedData, 'dns');
+        const citationFilePath = path.join(CITATION_DIR, `citation-${label}.json`);
+        await saveJsonFile(citationFilePath, citation);
+
+        console.log('Process completed successfully!');
+    } catch (error) {
+        console.error('Error during processing:', error.message);
+    }
+};
+
+// Example Invocation
 fetchAndSaveXmlAsJson({
-    id: '1616489472', 
-    label: 'Wissensdinge'
+    id: '1844708160',
+    label: 'Bourdieu',
+});
+fetchAndSaveXmlAsJson({
+    id: '1616489472',
+    label: 'Wissensdinge',
+});
+fetchAndSaveXmlAsJson({
+    id: '1041305176',
+    label: 'Delillo',
 });

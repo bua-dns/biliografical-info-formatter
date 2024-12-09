@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>picaxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="info:srw/schema/5/picaXML-v1.0">
+  <datafield tag="001@">
+    <subfield code="0">24,90-91,100,121,130,213,285,2001-2002,2010,2044,2206</subfield>
+  </datafield>
+  <datafield tag="001A">
+    <subfield code="0">0700:05-05-23</subfield>
+  </datafield>
+  <datafield tag="001B">
+    <subfield code="0">0008:08-10-24</subfield>
+    <subfield code="t">12:39:13.000</subfield>
+  </datafield>
+  <datafield tag="001D">
+    <subfield code="0">0700:05-05-23</subfield>
+  </datafield>
+  <datafield tag="001U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="001X">
+    <subfield code="0">0</subfield>
+  </datafield>
+  <datafield tag="002@">
+    <subfield code="0">Aau</subfield>
+  </datafield>
+  <datafield tag="002C">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+  </datafield>
+  <datafield tag="002D">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+  </datafield>
+  <datafield tag="002E">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+  </datafield>
+  <datafield tag="003@">
+    <subfield code="0">1844708160</subfield>
+  </datafield>
+  <datafield tag="003O">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="0">1378310812</subfield>
+  </datafield>
+  <datafield tag="004A">
+    <subfield code="0">9783518282588</subfield>
+  </datafield>
+  <datafield tag="007G">
+    <subfield code="i">KXP</subfield>
+    <subfield code="0">1844708160</subfield>
+  </datafield>
+  <datafield tag="010@">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="010E">
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="011@">
+    <subfield code="a">2023</subfield>
+  </datafield>
+  <datafield tag="019@">
+    <subfield code="a">XA-DE-HE</subfield>
+  </datafield>
+  <datafield tag="021A">
+    <subfield code="a">Die @feinen Unterschiede</subfield>
+    <subfield code="d">Kritik der gesellschaftlichen Urteilskraft</subfield>
+    <subfield code="h">Pierre Bourdieu ; übersetzt von Bernd Schwibs und Achim Russer</subfield>
+  </datafield>
+  <datafield tag="022A">
+    <subfield code="9">716985551</subfield>
+    <subfield code="V">Tuv1</subfield>
+    <subfield code="3">365366323</subfield>
+    <subfield code="7">gnd/1022458922</subfield>
+    <subfield code="W">Tpv1</subfield>
+    <subfield code="6">gnd/118810758</subfield>
+    <subfield code="3">16038723X</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Bourdieu</subfield>
+    <subfield code="D">Pierre</subfield>
+    <subfield code="E">1930</subfield>
+    <subfield code="M">2002</subfield>
+    <subfield code="a">La @distinction</subfield>
+  </datafield>
+  <datafield tag="028A">
+    <subfield code="9">198371527</subfield>
+    <subfield code="V">Tpv1</subfield>
+    <subfield code="7">gnd/118810758</subfield>
+    <subfield code="3">16038723X</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Bourdieu</subfield>
+    <subfield code="D">Pierre</subfield>
+    <subfield code="E">1930</subfield>
+    <subfield code="M">2002</subfield>
+    <subfield code="B">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="028C">
+    <subfield code="9">517458373</subfield>
+    <subfield code="V">Tpv3</subfield>
+    <subfield code="7">gnd/132058464</subfield>
+    <subfield code="3">298920395</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Schwibs</subfield>
+    <subfield code="D">Bernd</subfield>
+    <subfield code="E">1945</subfield>
+    <subfield code="B">ÜbersetzerIn</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="028C">
+    <subfield code="9">847501426</subfield>
+    <subfield code="V">Tpv3</subfield>
+    <subfield code="7">gnd/1082445568</subfield>
+    <subfield code="3">455430144</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Russer</subfield>
+    <subfield code="D">Achim</subfield>
+    <subfield code="B">ÜbersetzerIn</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="032@">
+    <subfield code="a">29. Auflage</subfield>
+  </datafield>
+  <datafield tag="033A">
+    <subfield code="p">Frankfurt am Main</subfield>
+    <subfield code="n">Suhrkamp</subfield>
+  </datafield>
+  <datafield tag="034D">
+    <subfield code="a">910 Seiten</subfield>
+  </datafield>
+  <datafield tag="034M">
+    <subfield code="a">Illustrationen, Diagramme</subfield>
+  </datafield>
+  <datafield tag="036E">
+    <subfield code="a">Suhrkamp-Taschenbuch Wissenschaft</subfield>
+    <subfield code="l">658</subfield>
+  </datafield>
+  <datafield tag="037A">
+    <subfield code="a">Literaturangaben</subfield>
+  </datafield>
+  <datafield tag="041A">
+    <subfield code="9">106327232</subfield>
+    <subfield code="V">Tgvz</subfield>
+    <subfield code="7">gnd/4018145-5</subfield>
+    <subfield code="3">208922857</subfield>
+    <subfield code="A">Frankreich</subfield>
+  </datafield>
+  <datafield tag="041A" occurrence="01">
+    <subfield code="9">105706930</subfield>
+    <subfield code="V">Tsv1</subfield>
+    <subfield code="7">gnd/4129848-2</subfield>
+    <subfield code="3">209613955</subfield>
+    <subfield code="a">Geschmack</subfield>
+    <subfield code="g">Ästhetik</subfield>
+  </datafield>
+  <datafield tag="041A" occurrence="02">
+    <subfield code="9">106079743</subfield>
+    <subfield code="V">Tsv1</subfield>
+    <subfield code="7">gnd/4077571-9</subfield>
+    <subfield code="3">209205679</subfield>
+    <subfield code="a">Soziale Klasse</subfield>
+  </datafield>
+  <datafield tag="044K">
+    <subfield code="9">105436119</subfield>
+    <subfield code="V">Tsv1</subfield>
+    <subfield code="7">gnd/4165986-7</subfield>
+    <subfield code="3">209899158</subfield>
+    <subfield code="a">Kulturphilosophie</subfield>
+  </datafield>
+  <datafield tag="045A">
+    <subfield code="a">HM251</subfield>
+  </datafield>
+  <datafield tag="045B" occurrence="02">
+    <subfield code="a">PHIL 273</subfield>
+  </datafield>
+  <datafield tag="045B" occurrence="02">
+    <subfield code="a">S 155</subfield>
+  </datafield>
+  <datafield tag="045B" occurrence="02">
+    <subfield code="a">S 185</subfield>
+  </datafield>
+  <datafield tag="045B" occurrence="02">
+    <subfield code="a">S 915</subfield>
+  </datafield>
+  <datafield tag="045E">
+    <subfield code="a">10</subfield>
+    <subfield code="a">14</subfield>
+    <subfield code="a">300</subfield>
+    <subfield code="a">360</subfield>
+  </datafield>
+  <datafield tag="045G">
+    <subfield code="a">14</subfield>
+    <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="045Q" occurrence="01">
+    <subfield code="9">106412612</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="a">71.50</subfield>
+    <subfield code="j">Kultursoziologie: Allgemeines</subfield>
+  </datafield>
+  <datafield tag="045Q" occurrence="01">
+    <subfield code="9">106403036</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="a">08.42</subfield>
+    <subfield code="j">Kulturphilosophie</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1271357631</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/123591:</subfield>
+    <subfield code="3">201357631</subfield>
+    <subfield code="a">MS 1300</subfield>
+    <subfield code="j">Allgemeine Theorie</subfield>
+    <subfield code="N">MN-MS</subfield>
+    <subfield code="J">Soziologie</subfield>
+    <subfield code="N">MS</subfield>
+    <subfield code="J">Spezielle Soziologien</subfield>
+    <subfield code="N">MS 1300-MS 1480</subfield>
+    <subfield code="J">Soziale Ungleichheit; Schichten,Klassen und Milieu</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1323814779</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/18481:11797</subfield>
+    <subfield code="3">253814774</subfield>
+    <subfield code="a">CI 5570</subfield>
+    <subfield code="j">Primärliteratur</subfield>
+    <subfield code="N">CA-CK</subfield>
+    <subfield code="J">Philosophie</subfield>
+    <subfield code="N">CD-CK</subfield>
+    <subfield code="J">Geschichte der Philosophie</subfield>
+    <subfield code="N">CD 1100-CI 8000</subfield>
+    <subfield code="J">Geschichte der Philosophie des Abendlandes von Antike bis 20. Jahrhundert</subfield>
+    <subfield code="N">CI 1000-CI 8300</subfield>
+    <subfield code="J">Philosophie des 20. Jahrhunderts</subfield>
+    <subfield code="N">CI 5300-CI 6294</subfield>
+    <subfield code="J">Frankreich und französischsprachige Länder sowie Rumänien</subfield>
+    <subfield code="N">CI 5400-CI 6294</subfield>
+    <subfield code="J">Autoren</subfield>
+    <subfield code="N">CI 5570-CI 5571</subfield>
+    <subfield code="J">Bourdieu, Pierre</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1396419616</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/123426:11633</subfield>
+    <subfield code="3">326419616</subfield>
+    <subfield code="a">MQ 3070</subfield>
+    <subfield code="j">Primärliteratur</subfield>
+    <subfield code="N">MN-MS</subfield>
+    <subfield code="J">Soziologie</subfield>
+    <subfield code="N">MQ</subfield>
+    <subfield code="J">Einführung und Geschichte</subfield>
+    <subfield code="N">MQ 3000-MQ 4000</subfield>
+    <subfield code="J">Einzelne Autoren</subfield>
+    <subfield code="N">MQ 3040-MQ 3079</subfield>
+    <subfield code="J">Autoren B</subfield>
+    <subfield code="N">MQ 3070-MQ 3071</subfield>
+    <subfield code="J">Bourdieu, Pierre</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1270945432</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/123589:</subfield>
+    <subfield code="3">200945432</subfield>
+    <subfield code="a">MS 1290</subfield>
+    <subfield code="j">Sozialphilosophie (auch Theorie der Gesellschaft), Sozial- und Kulturkritik (auch Dialektik), Entfremdung</subfield>
+    <subfield code="N">MN-MS</subfield>
+    <subfield code="J">Soziologie</subfield>
+    <subfield code="N">MS</subfield>
+    <subfield code="J">Spezielle Soziologien</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1270917625</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/123539:</subfield>
+    <subfield code="3">200917625</subfield>
+    <subfield code="a">MR 7100</subfield>
+    <subfield code="j">Kultursystem, Kulturbegriff (auch theoretische Kulturanthropologie) und Kulturvergleich; Kultursoziologie allgemein</subfield>
+    <subfield code="N">MN-MS</subfield>
+    <subfield code="J">Soziologie</subfield>
+    <subfield code="N">MR</subfield>
+    <subfield code="J">Sozialwissenschaftliche Theorien und Methoden</subfield>
+    <subfield code="N">MR 7100-MR 7400</subfield>
+    <subfield code="J">Kulturelle Ansätze</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1270639161</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/17689:</subfield>
+    <subfield code="3">200639161</subfield>
+    <subfield code="a">CC 7700</subfield>
+    <subfield code="j">Gesellschaftsphilosophie</subfield>
+    <subfield code="N">CA-CK</subfield>
+    <subfield code="J">Philosophie</subfield>
+    <subfield code="N">CC</subfield>
+    <subfield code="J">Systematische Philosophie</subfield>
+    <subfield code="N">CC 7300-CC 7950</subfield>
+    <subfield code="J">Rechts-, Gesellschafts- und Staatsphilosophie</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1447202082</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/123660:</subfield>
+    <subfield code="3">377202088</subfield>
+    <subfield code="a">MS 3070</subfield>
+    <subfield code="j">Kategorie Geschlecht und Familie, allgemein</subfield>
+    <subfield code="N">MN-MS</subfield>
+    <subfield code="J">Soziologie</subfield>
+    <subfield code="N">MS</subfield>
+    <subfield code="J">Spezielle Soziologien</subfield>
+    <subfield code="N">MS 2800-MS 3250</subfield>
+    <subfield code="J">Soziologische Geschlechterforschung (Gender Studies)</subfield>
+    <subfield code="N">MS 3000-MS 3250</subfield>
+    <subfield code="J">Spezielle Forschungsgebiete der soziologischen Geschlechterforschung</subfield>
+    <subfield code="N">MS 3070-MS 3080</subfield>
+    <subfield code="J">Kategorie Geschlecht und Familie</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">24</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">26-09-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">30-10-24</subfield>
+    <subfield code="t">09:34:56.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">30-10-24</subfield>
+    <subfield code="b">6365</subfield>
+    <subfield code="a">0008/0009</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4583633750</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">26-09-24</subfield>
+    <subfield code="b">zf009</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="f">8/009</subfield>
+    <subfield code="a">A 2-277</subfield>
+    <subfield code="d">i</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="a">Lehrstuhl für Personal und Organisation, BS 1</subfield>
+    <subfield code="x">04</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">16-04812</subfield>
+    <subfield code="x">24</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">acq</subfield>
+    <subfield code="x">50</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">24/40-00732</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">8$0023897651</subfield>
+  </datafield>
+  <datafield tag="209O" occurrence="01">
+    <subfield code="a">darfid</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">fb9:2024-10-08</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">90</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="101B">
+    <subfield code="0">31-08-23</subfield>
+    <subfield code="t">12:22:00.000</subfield>
+  </datafield>
+  <datafield tag="101U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="102D">
+    <subfield code="0">31-08-23</subfield>
+    <subfield code="b">5435</subfield>
+    <subfield code="a">3090</subfield>
+  </datafield>
+  <datafield tag="145Z">
+    <subfield code="a">SOZ 900:Bourdieu</subfield>
+  </datafield>
+  <datafield tag="145Z" occurrence="01">
+    <subfield code="a">PHI 293</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">23-08-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">31-08-23</subfield>
+    <subfield code="t">12:22:00.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">31-08-23</subfield>
+    <subfield code="b">5435</subfield>
+    <subfield code="a">3090</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4369654998</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">31-08-23</subfield>
+    <subfield code="b">z</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="a">SOZ 900:B53 : BF18(29.)</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">23:02823</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">HIL2$06011969</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">zbib</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">91</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">18-04-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">22-04-24</subfield>
+    <subfield code="t">15:38:16.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">22-04-24</subfield>
+    <subfield code="b">5455</subfield>
+    <subfield code="a">3091/0003</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4513421738</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">22-04-24</subfield>
+    <subfield code="b">zh</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="b">3091</subfield>
+    <subfield code="j">3</subfield>
+    <subfield code="f">Ho</subfield>
+    <subfield code="a">SOZ 3650/75(29)</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">Ho 240062</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">HIL3/3$0492957</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">100</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="101B">
+    <subfield code="0">21-12-23</subfield>
+    <subfield code="t">14:04:25.000</subfield>
+  </datafield>
+  <datafield tag="101U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="102D">
+    <subfield code="0">21-12-23</subfield>
+    <subfield code="b">3748</subfield>
+    <subfield code="a">3100</subfield>
+  </datafield>
+  <datafield tag="145Z">
+    <subfield code="a">F/A 433 Bour</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">21-12-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">21-12-23</subfield>
+    <subfield code="t">14:04:25.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">21-12-23</subfield>
+    <subfield code="b">3748</subfield>
+    <subfield code="a">3100</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">444270578X</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">21-12-23</subfield>
+    <subfield code="b">k</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="f">FH</subfield>
+    <subfield code="a">2024.00001:1</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">MA9$006754295</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">Ersatzexemplar</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">121</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">06-03-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">30-04-24</subfield>
+    <subfield code="t">06:56:30.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">30-04-24</subfield>
+    <subfield code="b">genloc4alma_k10plus</subfield>
+    <subfield code="a">0045</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4495930575</subfield>
+  </datafield>
+  <datafield tag="206X" occurrence="01">
+    <subfield code="0">23203112920003502</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">06-03-24</subfield>
+    <subfield code="b">z</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="a">24-1078</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">45$501042806</subfield>
+  </datafield>
+  <datafield tag="209O" occurrence="01">
+    <subfield code="a">alma</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">130</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">19-04-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">22-01-24</subfield>
+    <subfield code="t">10:15:41.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">22-01-24</subfield>
+    <subfield code="b">4607</subfield>
+    <subfield code="a">0700</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4311215037</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">05-05-23</subfield>
+    <subfield code="b">kg</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="f">B-Freihand-Magazin</subfield>
+    <subfield code="a">6272-760 6</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">700$62727606</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="01">
+    <subfield code="a">NSBO B</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="02">
+    <subfield code="0">05-05-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="02">
+    <subfield code="0">17-08-23</subfield>
+    <subfield code="t">12:39:31.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="02">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="02">
+    <subfield code="0">17-08-23</subfield>
+    <subfield code="b">4500</subfield>
+    <subfield code="a">0700</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="02">
+    <subfield code="0">4318275256</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="02">
+    <subfield code="a">05-05-23</subfield>
+    <subfield code="b">kg</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="02">
+    <subfield code="f">B-Freihand-Magazin</subfield>
+    <subfield code="a">6272-761 9</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="02">
+    <subfield code="a">700$62727619</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="02">
+    <subfield code="a">NSBO B</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="03">
+    <subfield code="0">05-05-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="03">
+    <subfield code="0">17-08-23</subfield>
+    <subfield code="t">12:39:51.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="03">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="03">
+    <subfield code="0">17-08-23</subfield>
+    <subfield code="b">4500</subfield>
+    <subfield code="a">0700</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="03">
+    <subfield code="0">4318275353</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="03">
+    <subfield code="a">05-05-23</subfield>
+    <subfield code="b">kg</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="03">
+    <subfield code="f">B-Freihand-Magazin</subfield>
+    <subfield code="a">6272-762 2</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="03">
+    <subfield code="a">700$62727622</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="03">
+    <subfield code="a">NSBO B</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="04">
+    <subfield code="0">05-05-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="04">
+    <subfield code="0">17-08-23</subfield>
+    <subfield code="t">12:40:17.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="04">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="04">
+    <subfield code="0">17-08-23</subfield>
+    <subfield code="b">4500</subfield>
+    <subfield code="a">0700</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="04">
+    <subfield code="0">4318275469</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="04">
+    <subfield code="a">05-05-23</subfield>
+    <subfield code="b">kg</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="04">
+    <subfield code="f">B-Freihand-Magazin</subfield>
+    <subfield code="a">6272-763 5</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="04">
+    <subfield code="a">700$62727635</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="04">
+    <subfield code="a">NSBO B</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="05">
+    <subfield code="0">05-05-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="05">
+    <subfield code="0">08-08-23</subfield>
+    <subfield code="t">06:45:27.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="05">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="05">
+    <subfield code="0">08-08-23</subfield>
+    <subfield code="b">4510</subfield>
+    <subfield code="a">0700</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="05">
+    <subfield code="0">4318275701</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="05">
+    <subfield code="a">05-05-23</subfield>
+    <subfield code="b">kg</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="05">
+    <subfield code="f">B-Freihand-Magazin</subfield>
+    <subfield code="a">6272-764 8</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="05">
+    <subfield code="a">700$62727648</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="05">
+    <subfield code="a">NSBO B</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">213</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">26-02-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">11-03-24</subfield>
+    <subfield code="t">10:15:19.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">11-03-24</subfield>
+    <subfield code="b">4276</subfield>
+    <subfield code="a">0551</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4491449740</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">26-02-24</subfield>
+    <subfield code="b">k</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="a">SW 983-42</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">551$2183943</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">285</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="101B">
+    <subfield code="0">26-10-23</subfield>
+    <subfield code="t">09:46:10.000</subfield>
+  </datafield>
+  <datafield tag="101U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="102D">
+    <subfield code="0">26-10-23</subfield>
+    <subfield code="b">9447</subfield>
+    <subfield code="a">0517</subfield>
+  </datafield>
+  <datafield tag="145Z">
+    <subfield code="a">MQ 3070</subfield>
+  </datafield>
+  <datafield tag="145Z">
+    <subfield code="a">MS 1300</subfield>
+  </datafield>
+  <datafield tag="145Z">
+    <subfield code="a">MR 4131</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">16-10-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">26-10-23</subfield>
+    <subfield code="t">09:46:10.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">26-10-23</subfield>
+    <subfield code="b">9447</subfield>
+    <subfield code="a">0517</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4389775006</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">16-10-23</subfield>
+    <subfield code="b">z</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="f">3415</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">23000498</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">23000498</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2001</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">18-03-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">25-03-24</subfield>
+    <subfield code="t">11:05:18.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">TUUB:18-03-24</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4501447230</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">18-03-24</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">21</subfield>
+    <subfield code="f">Lehrbuchsammlung</subfield>
+    <subfield code="a">soz D 15 Aufl.29(2023)</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">lbs1</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+  <datafield tag="237B" occurrence="01">
+    <subfield code="f">40</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2002</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">19-09-23</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">19-09-23</subfield>
+    <subfield code="t">12:50:19.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">TUUBSC:19-09-23</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4377855697</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">19-09-23</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">21/43</subfield>
+    <subfield code="a">Ea 1105</subfield>
+    <subfield code="D">p</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">2023/132</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="237B" occurrence="01">
+    <subfield code="0">2309</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="12">
+    <subfield code="0">21-05-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="12">
+    <subfield code="0">11-06-24</subfield>
+    <subfield code="t">12:19:05.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="12">
+    <subfield code="0">TUUBUK:21-05-24</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="12">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="12">
+    <subfield code="0">4526537284</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="12">
+    <subfield code="a">21-05-24</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="12">
+    <subfield code="B">21/53</subfield>
+    <subfield code="a">V 04 Bou II 2</subfield>
+    <subfield code="D">p</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="12">
+    <subfield code="a">i053</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="12">
+    <subfield code="a">2024/18</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="12">
+    <subfield code="a">Ersatzex.</subfield>
+  </datafield>
+  <datafield tag="237B" occurrence="12">
+    <subfield code="0">2405</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2010</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">10-07-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">15-07-24</subfield>
+    <subfield code="t">12:59:41.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">L1UB:10-07-24</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4548886060</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">10-07-24</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">15</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">SR</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2044</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">21-08-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">21-08-24</subfield>
+    <subfield code="t">11:27:51.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">KAPH:21-08-24</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4569404731</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">21-08-24</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">751</subfield>
+    <subfield code="J">l</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">adis</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2206</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">16-05-24</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">16-05-24</subfield>
+    <subfield code="t">13:19:24.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">KNFNZU:16-05-24</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4524367748</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">16-05-24</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">1141</subfield>
+    <subfield code="a">MR 7100 B769(29)</subfield>
+    <subfield code="J">n</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">adis</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.ppn=1844708160</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>picaxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
