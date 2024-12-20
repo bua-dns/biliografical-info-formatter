@@ -1,0 +1,195 @@
+
+<zs:searchRetrieveResponse>
+<zs:version>1.1</zs:version>
+<zs:numberOfRecords>1</zs:numberOfRecords>
+<zs:records>
+<zs:record>
+<zs:recordSchema>picaxml</zs:recordSchema>
+<zs:recordPacking>xml</zs:recordPacking>
+<zs:recordData>
+<record>
+<datafield tag="001@">
+<subfield code="0">2016</subfield>
+</datafield>
+<datafield tag="001A">
+<subfield code="0">S1U094:19-11-19</subfield>
+</datafield>
+<datafield tag="001B">
+<subfield code="0">S1U094:19-11-19</subfield>
+<subfield code="t">09:38:13.000</subfield>
+</datafield>
+<datafield tag="001D">
+<subfield code="0">S1U094:19-11-19</subfield>
+</datafield>
+<datafield tag="001U">
+<subfield code="0">utf8</subfield>
+</datafield>
+<datafield tag="001X">
+<subfield code="0">0</subfield>
+</datafield>
+<datafield tag="002@">
+<subfield code="0">AFu</subfield>
+</datafield>
+<datafield tag="002C">
+<subfield code="a">Text</subfield>
+<subfield code="b">txt</subfield>
+</datafield>
+<datafield tag="002D">
+<subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+<subfield code="b">n</subfield>
+</datafield>
+<datafield tag="002E">
+<subfield code="a">Band</subfield>
+<subfield code="b">nc</subfield>
+</datafield>
+<datafield tag="003@">
+<subfield code="0">1682092178</subfield>
+</datafield>
+<datafield tag="004A">
+<subfield code="0">9783518397374</subfield>
+</datafield>
+<datafield tag="007G">
+<subfield code="i">KXP</subfield>
+<subfield code="0">1682092178</subfield>
+</datafield>
+<datafield tag="010@">
+<subfield code="a">ger</subfield>
+</datafield>
+<datafield tag="010E">
+<subfield code="e">rda</subfield>
+</datafield>
+<datafield tag="011@">
+<subfield code="a">2015</subfield>
+</datafield>
+<datafield tag="021A">
+<subfield code="a">Rave</subfield>
+<subfield code="h">Rainald Goetz</subfield>
+</datafield>
+<datafield tag="028A">
+<subfield code="9">080317596</subfield>
+<subfield code="V">Tpv1</subfield>
+<subfield code="7">gnd/119501651</subfield>
+<subfield code="3">161144624</subfield>
+<subfield code="w">piz</subfield>
+<subfield code="A">Goetz</subfield>
+<subfield code="D">Rainald</subfield>
+<subfield code="E">1954</subfield>
+<subfield code="B">VerfasserIn</subfield>
+<subfield code="4">aut</subfield>
+</datafield>
+<datafield tag="032@">
+<subfield code="a">9. Auflage</subfield>
+</datafield>
+<datafield tag="033A">
+<subfield code="p">Frankfurt am Main</subfield>
+<subfield code="n">Suhrkamp</subfield>
+</datafield>
+<datafield tag="034D">
+<subfield code="a">270 Seiten</subfield>
+</datafield>
+<datafield tag="034M">
+<subfield code="a">Illustrationen</subfield>
+</datafield>
+<datafield tag="036C">
+<subfield code="a">
+Heute morgen, um 4 Uhr 11, als ich von den Wiesen zurückkam, wo ich den Tau aufgelesen habe
+</subfield>
+<subfield code="h">Rainald Goetz</subfield>
+<subfield code="l">5,1</subfield>
+</datafield>
+<datafield tag="036D">
+<subfield code="X">5,1,9</subfield>
+<subfield code="9">1187331902</subfield>
+<subfield code="R">Acu</subfield>
+<subfield code="5">117331902</subfield>
+<subfield code="2">3518455990</subfield>
+<subfield code="V">Tpv1</subfield>
+<subfield code="7">gnd/119501651</subfield>
+<subfield code="3">161144624</subfield>
+<subfield code="w">piz</subfield>
+<subfield code="A">Goetz</subfield>
+<subfield code="D">Rainald</subfield>
+<subfield code="E">1954</subfield>
+<subfield code="a">Heute morgen</subfield>
+<subfield code="g">[Taschenbuchausg. im Schuber]</subfield>
+<subfield code="p">Frankfurt am Main</subfield>
+<subfield code="n">Suhrkamp</subfield>
+<subfield code="h">20XX</subfield>
+<subfield code="l">5,1</subfield>
+</datafield>
+<datafield tag="036E">
+<subfield code="a">Suhrkamp-Taschenbuch</subfield>
+<subfield code="l">3237</subfield>
+</datafield>
+<datafield tag="045R">
+<subfield code="9">1274050103</subfield>
+<subfield code="V">Tkv</subfield>
+<subfield code="7">rvk/42673:11633</subfield>
+<subfield code="3">204050103</subfield>
+<subfield code="a">GN 4946</subfield>
+<subfield code="j">Primärliteratur</subfield>
+<subfield code="N">G</subfield>
+<subfield code="J">Germanistik. Niederlandistik. Skandinavistik</subfield>
+<subfield code="N">GE 3003-GT 1500</subfield>
+<subfield code="J">Deutsche Literatur</subfield>
+<subfield code="N">GN</subfield>
+<subfield code="J">Moderne II: 1946 - 1990</subfield>
+<subfield code="N">GN 1402-GN 9999</subfield>
+<subfield code="J">Literaturgeschichte</subfield>
+<subfield code="N">GN 2516-GN 9999</subfield>
+<subfield code="J">Einzelne Autoren</subfield>
+<subfield code="N">GN 4827-GN 5141</subfield>
+<subfield code="J">Autoren G</subfield>
+<subfield code="N">GN 4946-GN 4947</subfield>
+<subfield code="J">Goetz, Rainald</subfield>
+</datafield>
+<datafield tag="101@">
+<subfield code="a">2016</subfield>
+<subfield code="c">PICA</subfield>
+</datafield>
+<datafield tag="201A" occurrence="01">
+<subfield code="0">19-11-19</subfield>
+</datafield>
+<datafield tag="201B" occurrence="01">
+<subfield code="0">19-11-19</subfield>
+<subfield code="t">09:38:59.000</subfield>
+</datafield>
+<datafield tag="201D" occurrence="01">
+<subfield code="0">S1U094:19-11-19</subfield>
+</datafield>
+<datafield tag="201U" occurrence="01">
+<subfield code="0">utf8</subfield>
+</datafield>
+<datafield tag="203@" occurrence="01">
+<subfield code="0">3542262676</subfield>
+</datafield>
+<datafield tag="208@" occurrence="01">
+<subfield code="a">19-11-19</subfield>
+<subfield code="b">l01</subfield>
+</datafield>
+<datafield tag="209A" occurrence="01">
+<subfield code="B">93/94</subfield>
+<subfield code="a">W8/3--GOE:t83"9"(5,1)</subfield>
+<subfield code="D">p</subfield>
+<subfield code="x">00</subfield>
+</datafield>
+<datafield tag="237A" occurrence="01">
+<subfield code="a">(A 109/19) NdL</subfield>
+</datafield>
+<datafield tag="237B" occurrence="01">
+<subfield code="0">1911</subfield>
+<subfield code="f">S1U094W</subfield>
+</datafield>
+</record>
+</zs:recordData>
+<zs:recordPosition>1</zs:recordPosition>
+</zs:record>
+</zs:records>
+<zs:echoedSearchRetrieveRequest>
+<zs:version>1.1</zs:version>
+<zs:query>pica.ppn=1682092178</zs:query>
+<zs:maximumRecords>1</zs:maximumRecords>
+<zs:recordPacking>xml</zs:recordPacking>
+<zs:recordSchema>picaxml</zs:recordSchema>
+</zs:echoedSearchRetrieveRequest>
+</zs:searchRetrieveResponse>

@@ -1,7 +1,11 @@
 # Review
-## Probleme
+## Probleme in den Outputs
 ### Austellung-Folkwang
 - Eckige Klammern loswerden (Feld 021A, subfield d)
 - Innerhalb der eckigen Klammern erstes Wort großschreiben
 ### Bourdieu
-- Herausgeber stehen direkt bei Bourdieu
+- Herausgeber stehen direkt bei Bourdieu; der Grund dafür ist Feld 028C; möglicher Fix: wenn in 028C, subfield "B" "ÜbersetzerIn" angegeben ist, soll es nicht übernommen werden
+### Austellung-NG
+- Ausbesserung in Feld 021A, subfield d: hier findet sich wie bei Ausstellung-Folkwang eine längere Beschreibung, die man entweder gar nicht oder formatiert anzeigen könnte
+
+
