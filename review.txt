@@ -1,0 +1,7 @@
+# Review
+## Probleme
+### Austellung-Folkwang
+- Eckige Klammern loswerden (Feld 021A, subfield d)
+- Innerhalb der eckigen Klammern erstes Wort großschreiben
+### Bourdieu
+- Herausgeber stehen direkt bei Bourdieu
