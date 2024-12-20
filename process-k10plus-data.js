@@ -123,7 +123,7 @@ const fetchAndSaveXmlAsJson = async ({ id, label }) => {
         const jsonFilePath = path.join(OUTPUT_DIR, `bibliographical-info-${label}.json`);
         await saveJsonFile(jsonFilePath, enhancedData);
 
-        const citation = formatCitation(enhancedData, 'dns');
+        const citation = formatCitation(enhancedData, 'dns', 'de');
         const citationFilePath = path.join(CITATION_DIR, `citation-${label}.json`);
         await saveJsonFile(citationFilePath, citation);
 
@@ -145,4 +145,12 @@ fetchAndSaveXmlAsJson({
 fetchAndSaveXmlAsJson({
     id: '1041305176',
     label: 'Delillo',
+});
+fetchAndSaveXmlAsJson({
+    id: '529903814',
+    label: 'Ausstellung-NG',
+});
+fetchAndSaveXmlAsJson({
+    id: '627269303 ',
+    label: 'Ausstellung-Folkwang',
 });

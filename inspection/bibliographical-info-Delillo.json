@@ -1,7 +1,7 @@
 {
   "001@": [
     {
-      "0": "11,65,285"
+      "0": "11,65"
     }
   ],
   "001A": [
@@ -11,8 +11,8 @@
   ],
   "001B": [
     {
-      "0": "EBP:04-09-24",
-      "t": "13:46:43.000"
+      "0": "1999:17-12-24",
+      "t": "22:50:01.000"
     }
   ],
   "001D": [
@@ -340,10 +340,6 @@
     {
       "a": "65",
       "c": "PICA"
-    },
-    {
-      "a": "285",
-      "c": "PICA"
     }
   ],
   "201B": [
@@ -354,16 +350,9 @@
     {
       "0": "31-12-23",
       "t": "19:03:35.000"
-    },
-    {
-      "0": "03-11-23",
-      "t": "22:51:22.000"
     }
   ],
   "201U": [
-    {
-      "0": "utf8"
-    },
     {
       "0": "utf8"
     },
@@ -381,11 +370,6 @@
       "0": "31-12-23",
       "b": "add_ebook",
       "a": "1999"
-    },
-    {
-      "0": "03-11-23",
-      "b": "add_ebook",
-      "a": "1999"
     }
   ],
   "203@": [
@@ -394,9 +378,6 @@
     },
     {
       "0": "4445988820"
-    },
-    {
-      "0": "4401923243"
     }
   ],
   "208@": [
@@ -406,10 +387,6 @@
     },
     {
       "a": "31-12-23",
-      "b": "z"
-    },
-    {
-      "a": "03-11-23",
       "b": "z"
     }
   ],
@@ -444,18 +421,11 @@
     {
       "a": "Bloomsbury-EBS",
       "x": "00"
-    },
-    {
-      "a": "OLR-BL-TEST",
-      "x": "00"
     }
   ],
   "209R": [
     {
       "u": "http://erf.sbb.spk-berlin.de/han/1015543987/dx.doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections"
-    },
-    {
-      "u": "https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections"
     },
     {
       "u": "https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections"
@@ -495,9 +465,6 @@
     }
   ],
   "237A": [
-    {
-      "a": "Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Die Weitergabe an Dritte sowie systematisches Downloaden sind untersagt."
-    },
     {
       "a": "Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Die Weitergabe an Dritte sowie systematisches Downloaden sind untersagt."
     }

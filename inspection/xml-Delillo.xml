@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>picaxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="info:srw/schema/5/picaXML-v1.0">
   <datafield tag="001@">
-    <subfield code="0">11,65,285</subfield>
+    <subfield code="0">11,65</subfield>
   </datafield>
   <datafield tag="001A">
     <subfield code="0">2045:03-12-18</subfield>
   </datafield>
   <datafield tag="001B">
-    <subfield code="0">EBP:04-09-24</subfield>
-    <subfield code="t">13:46:43.000</subfield>
+    <subfield code="0">1999:17-12-24</subfield>
+    <subfield code="t">22:50:01.000</subfield>
   </datafield>
   <datafield tag="001D">
     <subfield code="0">0001:31-03-21</subfield>
@@ -363,39 +363,6 @@
   </datafield>
   <datafield tag="209O" occurrence="01">
     <subfield code="a">Bloomsbury-EBS</subfield>
-    <subfield code="x">00</subfield>
-  </datafield>
-  <datafield tag="209R" occurrence="01">
-    <subfield code="u">https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections</subfield>
-  </datafield>
-  <datafield tag="237A" occurrence="01">
-    <subfield code="a">Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Die Weitergabe an Dritte sowie systematisches Downloaden sind untersagt.</subfield>
-  </datafield>
-  <datafield tag="101@">
-    <subfield code="a">285</subfield>
-    <subfield code="c">PICA</subfield>
-  </datafield>
-  <datafield tag="201B" occurrence="01">
-    <subfield code="0">03-11-23</subfield>
-    <subfield code="t">22:51:22.000</subfield>
-  </datafield>
-  <datafield tag="201U" occurrence="01">
-    <subfield code="0">utf8</subfield>
-  </datafield>
-  <datafield tag="202D" occurrence="01">
-    <subfield code="0">03-11-23</subfield>
-    <subfield code="b">add_ebook</subfield>
-    <subfield code="a">1999</subfield>
-  </datafield>
-  <datafield tag="203@" occurrence="01">
-    <subfield code="0">4401923243</subfield>
-  </datafield>
-  <datafield tag="208@" occurrence="01">
-    <subfield code="a">03-11-23</subfield>
-    <subfield code="b">z</subfield>
-  </datafield>
-  <datafield tag="209O" occurrence="01">
-    <subfield code="a">OLR-BL-TEST</subfield>
     <subfield code="x">00</subfield>
   </datafield>
   <datafield tag="209R" occurrence="01">

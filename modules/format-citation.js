@@ -1,3 +1,25 @@
+function close(type, lang) {
+    const types = {
+        editors: {
+            de: {
+                marker: " (Hrsg.)",
+                separator: ": "
+            }
+        },
+        authors: {
+            de: {
+                marker: "",
+                separator: ": "
+            }
+        }
+    };
+    
+
+        
+    return types[type][lang].marker + types[type][lang].separator;
+}
+
+
 function checkDataExists(field, subfield) {
     if (field && field[0][subfield]) {
         return true; 
@@ -27,7 +49,7 @@ function composeNameData(entry) {
     return name;
 }
 
-export function formatCitation(data, template) {
+export function formatCitation(data, template, lang) {
     // Handle multiple authors in 028C
     let editors = "";
     if (Array.isArray(data["028C"]) && data["028C"].length > 0) {
@@ -52,18 +74,14 @@ export function formatCitation(data, template) {
         title += data["021A"][0]["d"] ? `. ${data["021A"][0]["d"]}` : "";
         title += '</em>';
     }
-
-    // const familyName = checkDataExists(data["028A"], ["A"]) ? data["028A"]["A"] : "";
-    // const givenName = checkDataExists(data["028A"], ["D"]) ? data["028A"]["D"] : "";
-    // const title = checkDataExists(data["021A"], ["a"]) ? data["021A"]["a"].replace('@', '') : "";
     const edition = checkDataExists(data["032@"], ["a"]) ? data["032@"][0]["a"] : "";
     const placeOfPublication = checkDataExists(data["033A"], ["p"]) ? data["033A"][0]["p"] : "";
     const yearOfPublication = checkDataExists(data["011@"], ["a"]) ? data["011@"][0]["a"] : "";
 
     let citation = "";
     if (template === "dns" || !template) {
-        citation += editors && checkIfEditorsOnly(data)? `${editors}: ` : "";
-        citation += authors ? `${authors}: ` : "";
+        citation += editors && checkIfEditorsOnly(data)? `${editors}${close('editors', lang)}` : "";
+        citation += authors ? `${authors}${editors}${close('authors', lang)}` : "";
         citation += title ? `${title.replace('@', '')}. ` : "";
         citation += edition ? `${edition}. ` : "";
         citation += placeOfPublication ? `${placeOfPublication} ` : "";
