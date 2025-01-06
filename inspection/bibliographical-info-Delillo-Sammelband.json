@@ -1,0 +1,472 @@
+{
+  "001@": [
+    {
+      "0": "11,65"
+    }
+  ],
+  "001A": [
+    {
+      "0": "2045:03-12-18"
+    }
+  ],
+  "001B": [
+    {
+      "0": "1999:17-12-24",
+      "t": "22:50:01.000"
+    }
+  ],
+  "001D": [
+    {
+      "0": "0001:31-03-21"
+    }
+  ],
+  "001U": [
+    {
+      "0": "utf8"
+    }
+  ],
+  "001X": [
+    {
+      "0": "0"
+    }
+  ],
+  "002@": [
+    {
+      "0": "Oau"
+    }
+  ],
+  "002C": [
+    {
+      "a": "Text",
+      "b": "txt"
+    }
+  ],
+  "002D": [
+    {
+      "a": "Computermedien",
+      "b": "c"
+    }
+  ],
+  "002E": [
+    {
+      "a": "Online-Ressource",
+      "b": "cr"
+    }
+  ],
+  "003@": [
+    {
+      "0": "1041305176"
+    }
+  ],
+  "003O": [
+    {
+      "0": "1407361308",
+      "a": "OCoLC"
+    }
+  ],
+  "004A": [
+    {
+      "0": "9781350040892",
+      "f": " : online"
+    },
+    {
+      "0": "9781350040878",
+      "f": " : epdf"
+    },
+    {
+      "0": "9781350040885",
+      "f": " : electronic book"
+    }
+  ],
+  "004P": [
+    {
+      "0": "9781350040861",
+      "S": "p",
+      "f": " : hardback"
+    }
+  ],
+  "004V": [
+    {
+      "0": "10.5040/9781350040892"
+    }
+  ],
+  "006X": [
+    {
+      "0": "bpp09262285",
+      "i": "BLOOM"
+    },
+    {
+      "0": "048016608",
+      "i": "EBP"
+    }
+  ],
+  "007G": [
+    {
+      "0": "1041305176",
+      "i": "GBV"
+    }
+  ],
+  "010@": [
+    {
+      "a": "eng"
+    }
+  ],
+  "011@": [
+    {
+      "a": "2018"
+    }
+  ],
+  "011B": [
+    {
+      "a": "2014"
+    }
+  ],
+  "013D": [
+    {
+      "3": "209726091",
+      "7": "gnd/4143413-4",
+      "9": "105605727",
+      "V": "Tsvz",
+      "a": "Aufsatzsammlung"
+    }
+  ],
+  "016A": [
+    {
+      "0": "cr"
+    }
+  ],
+  "017C": [
+    {
+      "3": "Volltext",
+      "5": "34",
+      "u": "http://dx.doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections",
+      "m": "X:BLOOM",
+      "x": "R",
+      "B": "1"
+    },
+    {
+      "4": "ZZ",
+      "u": "https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections",
+      "m": "X:BLOOM",
+      "x": "R",
+      "B": "1"
+    }
+  ],
+  "017G": [
+    {
+      "3": "Inhaltsverzeichnis",
+      "5": "04",
+      "S": "0",
+      "u": "http://www.gbv.de/dms/bowker/toc/9781350040861.pdf",
+      "m": "X:Bowker",
+      "q": "application/pdf",
+      "v": "2019-01-31",
+      "x": "H",
+      "y": "Inhaltsverzeichnis",
+      "A": "GBV",
+      "B": "2"
+    }
+  ],
+  "017L": [
+    {
+      "a": "ZDB-162-BCC",
+      "b": "2018"
+    },
+    {
+      "a": "ZDB-162-BCL",
+      "b": "2018"
+    }
+  ],
+  "019@": [
+    {
+      "a": "XA-GB"
+    }
+  ],
+  "021A": [
+    {
+      "a": "Don DeLillo",
+      "h": "edited by Katherine Da Cunha Lewin and Kiron Ward"
+    }
+  ],
+  "028C": [
+    {
+      "3": "513751262",
+      "4": "edt",
+      "7": "gnd/1171481187",
+      "9": "1040551394",
+      "V": "Tpv3",
+      "w": "piz",
+      "A": "Lewin",
+      "D": "Katherine Da Cunha",
+      "B": "HerausgeberIn"
+    },
+    {
+      "3": "513751556",
+      "4": "edt",
+      "7": "gnd/1171481632",
+      "9": "1040551645",
+      "V": "Tpv3",
+      "w": "piz",
+      "A": "Ward",
+      "D": "Kiron",
+      "B": "HerausgeberIn"
+    }
+  ],
+  "033A": [
+    {
+      "p": "London",
+      "n": "Bloomsbury Academic"
+    },
+    {
+      "p": "London",
+      "n": "Bloomsbury Publishing"
+    }
+  ],
+  "034D": [
+    {
+      "a": "1 Online-Ressource (xiv, 202 pages)"
+    }
+  ],
+  "036E": [
+    {
+      "a": "Contemporary critical perspectives"
+    }
+  ],
+  "037A": [
+    {
+      "a": "Includes index"
+    }
+  ],
+  "039D": [
+    {
+      "2": "9781350040861",
+      "5": "515893315",
+      "9": "101804681X",
+      "i": "Erscheint auch als",
+      "n": "Druck-Ausgabe",
+      "R": "Aau",
+      "t": "Don DeLillo",
+      "d": "London",
+      "e": "Bloomsbury Academic",
+      "f": "2019",
+      "h": "xiii, 198 Seiten"
+    }
+  ],
+  "044A": [
+    {
+      "N": "655",
+      "S": "f",
+      "a": "Electronic books"
+    },
+    {
+      "N": "650",
+      "S": "s",
+      "a": "DeLillo, Don",
+      "x": "Criticism and interpretation"
+    },
+    {
+      "N": "650",
+      "S": "s",
+      "a": "DeLillo, Don",
+      "x": "Criticism and interpretation"
+    }
+  ],
+  "044K": [
+    {
+      "3": "164135588",
+      "7": "gnd/118889664",
+      "9": "079666175",
+      "V": "Tpv1",
+      "A": "DeLillo",
+      "D": "Don",
+      "E": "1936"
+    },
+    {
+      "A": "DA-3"
+    }
+  ],
+  "045A": [
+    {
+      "a": "PS3554.E4425"
+    }
+  ],
+  "045F": [
+    {
+      "e": "23",
+      "a": "813/.54",
+      "A": "LOC"
+    }
+  ],
+  "045Q": [
+    {
+      "9": "106415417",
+      "V": "Tkv",
+      "a": "18.06",
+      "j": "Angloamerikanische Literatur",
+      "A": "DA-3"
+    }
+  ],
+  "045R": [
+    {
+      "3": "201982234",
+      "7": "rvk/53946:11637",
+      "9": "1271982234",
+      "V": "Tkv",
+      "a": "HU 3451",
+      "j": "Sekundärliteratur",
+      "N": "HU 3450-HU 3451",
+      "J": "DeLillo, Don",
+      "A": "SEPA"
+    }
+  ],
+  "046L": [
+    {
+      "a": "Barrierefreier Inhalt: Compliant with Level AA of the Web Content Accessibility Guidelines. Content is displayed as HTML full text which can easily be resized or read with assistive technology, with mark-up that allows screen readers and keyboard-only users to navigate easily"
+    }
+  ],
+  "047I": [
+    {
+      "a": "Series Editors' Preface -- Acknowledgements -- Contributors -- Chronology of Don DeLillo's Life -- Introduction: A Trick of the Light: Don DeLillo in the 21st Century / Katherine Da Cunha Lewin (University of Sussex, UK) & Kiron Ward (University of East Anglia, UK) -- 1. 'I'm sure you must be somebody': White Masculinity in Don DeLillo's Americana and / White Noise Tim Engles (Eastern Illinois University, USA) -- 2. Apocalyptism, Environmentalism and the Other in Don DeLillo's End Zone, Great Jones Street and Ratner's Star Katherine Da Cunha Lewin (University of Sussex, UK) -- 3. Libranth: Nicholas Branch's Joycean Labyrinth in Don DeLillo's Libra / Graley Herren (Xavier University, USA) -- 4. Unstable Bodies in Don DeLillo's Mao II and The Body Artist / Rebecca Harding (University of Sussex, UK) -- 5. 'We came for the dirt but stayed for the talk': Don DeLillo's Theatre / Mark Osteen (Loyola University Maryland, USA) -- 6. Don DeLillo's Italian American: The Early Short Stories and Underworld / Maria Lauret (University of Sussex, UK) -- 7. Staging the Counter-Narrative in Don DeLillo's Falling Man / Ronan McKinney (University of Sussex, UK) -- 8. The Art of Being Out of Time in Don DeLillo's Point Omega / Catherine Gander (Maynooth University, Ireland) -- 9. Don DeLillo's Zero K and the Dream of the Cryonic Election / David Cowart (University of South Carolina, USA) -- Interview: The Edge of the Future: A Discussion with Don DeLillo / Peter Boxall (University of Sussex, UK) -- Further Reading -- Index."
+    },
+    {
+      "a": "\"Don DeLillo is widely regarded as one of the most significant, and prescient, writers of our time. Since the 1960s, DeLillo's fiction has been at the cutting edge of thought on American identity, globalization, technology, environmental destruction, and terrorism, always with a distinctively macabre and humorous eye. Don DeLillo: Contemporary Critical Perspectives brings together leading scholars of the contemporary American novel to guide readers through DeLillo's oeuvre, from his early short stories through to 2016's Zero K, including his theatrical work. As well as critically exploring DeLillo's engagement with key contemporary themes, the book also includes a new interview with the author, annotated guides to further reading, and a chronology of his life and work.\"--Bloomsbury Publishing"
+    }
+  ],
+  "101@": [
+    {
+      "a": "11",
+      "c": "PICA"
+    },
+    {
+      "a": "65",
+      "c": "PICA"
+    }
+  ],
+  "201B": [
+    {
+      "0": "24-02-23",
+      "t": "15:26:15.000"
+    },
+    {
+      "0": "31-12-23",
+      "t": "19:03:35.000"
+    }
+  ],
+  "201U": [
+    {
+      "0": "utf8"
+    },
+    {
+      "0": "utf8"
+    }
+  ],
+  "202D": [
+    {
+      "0": "24-02-23",
+      "b": "1676",
+      "a": "0001"
+    },
+    {
+      "0": "31-12-23",
+      "b": "add_ebook",
+      "a": "1999"
+    }
+  ],
+  "203@": [
+    {
+      "0": "3484626097"
+    },
+    {
+      "0": "4445988820"
+    }
+  ],
+  "208@": [
+    {
+      "a": "11-06-19",
+      "b": "k"
+    },
+    {
+      "a": "31-12-23",
+      "b": "z"
+    }
+  ],
+  "209A": [
+    {
+      "f": "5:REMOTE",
+      "d": "s",
+      "x": "00"
+    }
+  ],
+  "209B": [
+    {
+      "a": "kx",
+      "x": "52"
+    }
+  ],
+  "209C": [
+    {
+      "a": "1 E 4951-1116",
+      "x": "00"
+    }
+  ],
+  "209O": [
+    {
+      "a": "Bloomsbury",
+      "x": "00"
+    },
+    {
+      "a": "ACQ",
+      "x": "00"
+    },
+    {
+      "a": "Bloomsbury-EBS",
+      "x": "00"
+    }
+  ],
+  "209R": [
+    {
+      "u": "http://erf.sbb.spk-berlin.de/han/1015543987/dx.doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections"
+    },
+    {
+      "u": "https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections"
+    }
+  ],
+  "220B": [
+    {
+      "a": "Collection 2018"
+    },
+    {
+      "a": "32"
+    },
+    {
+      "a": "Papierkopie an Endbenutzer"
+    }
+  ],
+  "220J": [
+    {
+      "b": "ERF60",
+      "y": "ERF ohne Sonderstandort",
+      "a": "16-11-21",
+      "c": "1655"
+    }
+  ],
+  "220K": [
+    {
+      "b": "ERF20",
+      "y": "ERF neu / Fachreferent erledigt",
+      "a": "31-03-21",
+      "c": "1654"
+    },
+    {
+      "b": "ERF10",
+      "y": "ERF neu / IIA erledigt",
+      "a": "31-03-21",
+      "c": "1676"
+    }
+  ],
+  "237A": [
+    {
+      "a": "Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Die Weitergabe an Dritte sowie systematisches Downloaden sind untersagt."
+    }
+  ]
+}

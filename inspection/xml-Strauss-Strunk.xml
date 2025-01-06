@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>picaxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="info:srw/schema/5/picaXML-v1.0">
+  <datafield tag="001@">
+    <subfield code="0">62,70</subfield>
+  </datafield>
+  <datafield tag="001A">
+    <subfield code="0">0028:26-01-15</subfield>
+  </datafield>
+  <datafield tag="001B">
+    <subfield code="0">BSZ:26-04-22</subfield>
+    <subfield code="t">18:17:21.000</subfield>
+  </datafield>
+  <datafield tag="001D">
+    <subfield code="0">0028:26-01-15</subfield>
+  </datafield>
+  <datafield tag="001U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="001X">
+    <subfield code="0">0</subfield>
+  </datafield>
+  <datafield tag="002@">
+    <subfield code="0">Aau</subfield>
+  </datafield>
+  <datafield tag="002C">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+  </datafield>
+  <datafield tag="002D">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+  </datafield>
+  <datafield tag="002E">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+  </datafield>
+  <datafield tag="003@">
+    <subfield code="0">816298793</subfield>
+  </datafield>
+  <datafield tag="003O">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="0">935797255</subfield>
+  </datafield>
+  <datafield tag="004A">
+    <subfield code="0">9783499267550</subfield>
+    <subfield code="f">Pb.</subfield>
+  </datafield>
+  <datafield tag="007G">
+    <subfield code="i">GBV</subfield>
+    <subfield code="0">816298793</subfield>
+  </datafield>
+  <datafield tag="010@">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="011@">
+    <subfield code="a">2014</subfield>
+    <subfield code="n">c 2014</subfield>
+  </datafield>
+  <datafield tag="019@">
+    <subfield code="a">XA-DE-SH</subfield>
+  </datafield>
+  <datafield tag="021A">
+    <subfield code="a">Der @zurück in sein Haus gestopfte Jäger</subfield>
+    <subfield code="h">Botho Strauß. Hrsg. von Heinz Strunk</subfield>
+  </datafield>
+  <datafield tag="028A">
+    <subfield code="9">079408168</subfield>
+    <subfield code="V">Tpv1</subfield>
+    <subfield code="7">gnd/118619047</subfield>
+    <subfield code="3">163220379</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Strauß</subfield>
+    <subfield code="D">Botho</subfield>
+    <subfield code="E">1944</subfield>
+  </datafield>
+  <datafield tag="028C">
+    <subfield code="9">394711238</subfield>
+    <subfield code="V">Tpv1</subfield>
+    <subfield code="7">gnd/129401161</subfield>
+    <subfield code="3">189166053</subfield>
+    <subfield code="w">pip</subfield>
+    <subfield code="A">Strunk</subfield>
+    <subfield code="D">Heinz</subfield>
+    <subfield code="E">1962</subfield>
+  </datafield>
+  <datafield tag="032@">
+    <subfield code="a">2. Aufl.</subfield>
+  </datafield>
+  <datafield tag="033A">
+    <subfield code="p">Reinbek bei Hamburg</subfield>
+    <subfield code="n">Rowohlt</subfield>
+  </datafield>
+  <datafield tag="034D">
+    <subfield code="a">251 S.</subfield>
+  </datafield>
+  <datafield tag="034I">
+    <subfield code="a">190 mm x 115 mm</subfield>
+  </datafield>
+  <datafield tag="036E">
+    <subfield code="a">Rororo</subfield>
+    <subfield code="l">26755</subfield>
+  </datafield>
+  <datafield tag="037A">
+    <subfield code="a">Literaturverz. S. 251 - [252]</subfield>
+  </datafield>
+  <datafield tag="045B" occurrence="05">
+    <subfield code="a">Erzählende Literatur: Gegenwartsliteratur ab 1945</subfield>
+  </datafield>
+  <datafield tag="045G">
+    <subfield code="a">830</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="A">DNB</subfield>
+  </datafield>
+  <datafield tag="045Q" occurrence="01">
+    <subfield code="9">181571714</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+  </datafield>
+  <datafield tag="045Q" occurrence="01">
+    <subfield code="9">106405047</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="a">18.10</subfield>
+    <subfield code="j">Deutsche Literatur</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1270698745</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/43042:11633</subfield>
+    <subfield code="3">200698745</subfield>
+    <subfield code="a">GN 9283</subfield>
+    <subfield code="j">Primärliteratur</subfield>
+    <subfield code="N">G</subfield>
+    <subfield code="J">Germanistik. Niederlandistik. Skandinavistik</subfield>
+    <subfield code="N">GE 3003-GT 1500</subfield>
+    <subfield code="J">Deutsche Literatur</subfield>
+    <subfield code="N">GN</subfield>
+    <subfield code="J">Moderne II: 1946 - 1990</subfield>
+    <subfield code="N">GN 1402-GN 9999</subfield>
+    <subfield code="J">Literaturgeschichte</subfield>
+    <subfield code="N">GN 2516-GN 9999</subfield>
+    <subfield code="J">Einzelne Autoren</subfield>
+    <subfield code="N">GN 8795-GN 9454</subfield>
+    <subfield code="J">Autoren S</subfield>
+    <subfield code="N">GN 9283-GN 9284</subfield>
+    <subfield code="J">Strauß, Botho</subfield>
+    <subfield code="A">BSZ</subfield>
+  </datafield>
+  <datafield tag="046W">
+    <subfield code="a">IMD-Felder maschinell generiert (GBV)</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">62</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">18-12-17</subfield>
+    <subfield code="t">17:35:39.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">18-12-17</subfield>
+    <subfield code="b">4434</subfield>
+    <subfield code="a">0028</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">1505600898</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">17-10-14</subfield>
+    <subfield code="b">z</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="f">28/BB2-SLW</subfield>
+    <subfield code="a">GN 9283 Z96.2014</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">2014.20723</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">28$013547232</subfield>
+  </datafield>
+  <datafield tag="209O" occurrence="01">
+    <subfield code="a">ACQ</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">70</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="101B">
+    <subfield code="0">01-10-20</subfield>
+    <subfield code="t">13:53:19.000</subfield>
+  </datafield>
+  <datafield tag="101U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="102D">
+    <subfield code="0">01-10-20</subfield>
+    <subfield code="b">2728</subfield>
+    <subfield code="a">0089</subfield>
+  </datafield>
+  <datafield tag="145Z" occurrence="20">
+    <subfield code="a">GT 900 str 3</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="60">
+    <subfield code="0">07-09-20</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="60">
+    <subfield code="0">16-11-20</subfield>
+    <subfield code="t">09:31:45.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="60">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="60">
+    <subfield code="0">16-11-20</subfield>
+    <subfield code="b">3333</subfield>
+    <subfield code="a">0089</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="60">
+    <subfield code="0">3747363563</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="60">
+    <subfield code="a">16-11-20</subfield>
+    <subfield code="b">zcl</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="60">
+    <subfield code="b">89</subfield>
+    <subfield code="j">17</subfield>
+    <subfield code="f">FBL</subfield>
+    <subfield code="a">GT/900/str 3/1396(2)</subfield>
+    <subfield code="d">u</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="60">
+    <subfield code="a">FBL 2020-1396</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="60">
+    <subfield code="a">89$143419072</subfield>
+  </datafield>
+  <datafield tag="237A" occurrence="60">
+    <subfield code="a">Erworben aus Studienqualitätsmitteln</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.ppn=816298793</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>picaxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

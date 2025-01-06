@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>picaxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="info:srw/schema/5/picaXML-v1.0">
+  <datafield tag="001@">
+    <subfield code="0">11,65</subfield>
+  </datafield>
+  <datafield tag="001A">
+    <subfield code="0">2045:03-12-18</subfield>
+  </datafield>
+  <datafield tag="001B">
+    <subfield code="0">1999:17-12-24</subfield>
+    <subfield code="t">22:50:01.000</subfield>
+  </datafield>
+  <datafield tag="001D">
+    <subfield code="0">0001:31-03-21</subfield>
+  </datafield>
+  <datafield tag="001U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="001X">
+    <subfield code="0">0</subfield>
+  </datafield>
+  <datafield tag="002@">
+    <subfield code="0">Oau</subfield>
+  </datafield>
+  <datafield tag="002C">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+  </datafield>
+  <datafield tag="002D">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+  </datafield>
+  <datafield tag="002E">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+  </datafield>
+  <datafield tag="003@">
+    <subfield code="0">1041305176</subfield>
+  </datafield>
+  <datafield tag="003O">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="0">1407361308</subfield>
+  </datafield>
+  <datafield tag="004A">
+    <subfield code="0">9781350040892</subfield>
+    <subfield code="f"> : online</subfield>
+  </datafield>
+  <datafield tag="004A">
+    <subfield code="0">9781350040878</subfield>
+    <subfield code="f"> : epdf</subfield>
+  </datafield>
+  <datafield tag="004A">
+    <subfield code="0">9781350040885</subfield>
+    <subfield code="f"> : electronic book</subfield>
+  </datafield>
+  <datafield tag="004P">
+    <subfield code="S">p</subfield>
+    <subfield code="0">9781350040861</subfield>
+    <subfield code="f"> : hardback</subfield>
+  </datafield>
+  <datafield tag="004V">
+    <subfield code="0">10.5040/9781350040892</subfield>
+  </datafield>
+  <datafield tag="006X">
+    <subfield code="i">BLOOM</subfield>
+    <subfield code="0">bpp09262285</subfield>
+  </datafield>
+  <datafield tag="006X">
+    <subfield code="i">EBP</subfield>
+    <subfield code="0">048016608</subfield>
+  </datafield>
+  <datafield tag="007G">
+    <subfield code="i">GBV</subfield>
+    <subfield code="0">1041305176</subfield>
+  </datafield>
+  <datafield tag="010@">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="011@">
+    <subfield code="a">2018</subfield>
+  </datafield>
+  <datafield tag="011B">
+    <subfield code="a">2014</subfield>
+  </datafield>
+  <datafield tag="013D">
+    <subfield code="9">105605727</subfield>
+    <subfield code="V">Tsvz</subfield>
+    <subfield code="3">209726091</subfield>
+    <subfield code="7">gnd/4143413-4</subfield>
+    <subfield code="a">Aufsatzsammlung</subfield>
+  </datafield>
+  <datafield tag="016A">
+    <subfield code="0">cr</subfield>
+  </datafield>
+  <datafield tag="017C">
+    <subfield code="u">http://dx.doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections</subfield>
+    <subfield code="m">X:BLOOM</subfield>
+    <subfield code="x">R</subfield>
+    <subfield code="3">Volltext</subfield>
+    <subfield code="5">34</subfield>
+    <subfield code="B">1</subfield>
+  </datafield>
+  <datafield tag="017C">
+    <subfield code="u">https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections</subfield>
+    <subfield code="m">X:BLOOM</subfield>
+    <subfield code="x">R</subfield>
+    <subfield code="4">ZZ</subfield>
+    <subfield code="B">1</subfield>
+  </datafield>
+  <datafield tag="017G">
+    <subfield code="S">0</subfield>
+    <subfield code="u">http://www.gbv.de/dms/bowker/toc/9781350040861.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">X:Bowker</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2019-01-31</subfield>
+    <subfield code="x">H</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="5">04</subfield>
+    <subfield code="A">GBV</subfield>
+    <subfield code="B">2</subfield>
+  </datafield>
+  <datafield tag="017L">
+    <subfield code="a">ZDB-162-BCC</subfield>
+    <subfield code="b">2018</subfield>
+  </datafield>
+  <datafield tag="017L">
+    <subfield code="a">ZDB-162-BCL</subfield>
+    <subfield code="b">2018</subfield>
+  </datafield>
+  <datafield tag="019@">
+    <subfield code="a">XA-GB</subfield>
+  </datafield>
+  <datafield tag="021A">
+    <subfield code="a">Don DeLillo</subfield>
+    <subfield code="h">edited by Katherine Da Cunha Lewin and Kiron Ward</subfield>
+  </datafield>
+  <datafield tag="028C">
+    <subfield code="9">1040551394</subfield>
+    <subfield code="V">Tpv3</subfield>
+    <subfield code="7">gnd/1171481187</subfield>
+    <subfield code="3">513751262</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Lewin</subfield>
+    <subfield code="D">Katherine Da Cunha</subfield>
+    <subfield code="B">HerausgeberIn</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="028C">
+    <subfield code="9">1040551645</subfield>
+    <subfield code="V">Tpv3</subfield>
+    <subfield code="7">gnd/1171481632</subfield>
+    <subfield code="3">513751556</subfield>
+    <subfield code="w">piz</subfield>
+    <subfield code="A">Ward</subfield>
+    <subfield code="D">Kiron</subfield>
+    <subfield code="B">HerausgeberIn</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="033A">
+    <subfield code="p">London</subfield>
+    <subfield code="n">Bloomsbury Academic</subfield>
+  </datafield>
+  <datafield tag="033A">
+    <subfield code="p">London</subfield>
+    <subfield code="n">Bloomsbury Publishing</subfield>
+  </datafield>
+  <datafield tag="034D">
+    <subfield code="a">1 Online-Ressource (xiv, 202 pages)</subfield>
+  </datafield>
+  <datafield tag="036E">
+    <subfield code="a">Contemporary critical perspectives</subfield>
+  </datafield>
+  <datafield tag="037A">
+    <subfield code="a">Includes index</subfield>
+  </datafield>
+  <datafield tag="039D">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Druck-Ausgabe</subfield>
+    <subfield code="9">101804681X</subfield>
+    <subfield code="R">Aau</subfield>
+    <subfield code="5">515893315</subfield>
+    <subfield code="2">9781350040861</subfield>
+    <subfield code="t">Don DeLillo</subfield>
+    <subfield code="d">London</subfield>
+    <subfield code="e">Bloomsbury Academic</subfield>
+    <subfield code="f">2019</subfield>
+    <subfield code="h">xiii, 198 Seiten</subfield>
+  </datafield>
+  <datafield tag="044A">
+    <subfield code="N">655</subfield>
+    <subfield code="S">f</subfield>
+    <subfield code="a">Electronic books</subfield>
+  </datafield>
+  <datafield tag="044A">
+    <subfield code="N">650</subfield>
+    <subfield code="S">s</subfield>
+    <subfield code="a">DeLillo, Don</subfield>
+    <subfield code="x">Criticism and interpretation</subfield>
+  </datafield>
+  <datafield tag="044A">
+    <subfield code="N">650</subfield>
+    <subfield code="S">s</subfield>
+    <subfield code="a">DeLillo, Don</subfield>
+    <subfield code="x">Criticism and interpretation</subfield>
+  </datafield>
+  <datafield tag="044K">
+    <subfield code="9">079666175</subfield>
+    <subfield code="V">Tpv1</subfield>
+    <subfield code="7">gnd/118889664</subfield>
+    <subfield code="3">164135588</subfield>
+    <subfield code="A">DeLillo</subfield>
+    <subfield code="D">Don</subfield>
+    <subfield code="E">1936</subfield>
+  </datafield>
+  <datafield tag="044K">
+    <subfield code="A">DA-3</subfield>
+  </datafield>
+  <datafield tag="045A">
+    <subfield code="a">PS3554.E4425</subfield>
+  </datafield>
+  <datafield tag="045F">
+    <subfield code="e">23</subfield>
+    <subfield code="a">813/.54</subfield>
+    <subfield code="A">LOC</subfield>
+  </datafield>
+  <datafield tag="045Q" occurrence="01">
+    <subfield code="9">106415417</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="a">18.06</subfield>
+    <subfield code="j">Angloamerikanische Literatur</subfield>
+    <subfield code="A">DA-3</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1271982234</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/53946:11637</subfield>
+    <subfield code="3">201982234</subfield>
+    <subfield code="a">HU 3451</subfield>
+    <subfield code="j">Sekundärliteratur</subfield>
+    <subfield code="N">H</subfield>
+    <subfield code="J">Anglistik. Amerikanistik</subfield>
+    <subfield code="N">HR-HV</subfield>
+    <subfield code="J">Amerikanische Literatur</subfield>
+    <subfield code="N">HU</subfield>
+    <subfield code="J">20. Jahrhundert</subfield>
+    <subfield code="N">HU 1510-HU 9801</subfield>
+    <subfield code="J">Literaturgeschichte</subfield>
+    <subfield code="N">HU 2800-HU 9785</subfield>
+    <subfield code="J">Einzelne Autoren</subfield>
+    <subfield code="N">HU 3436-HU 3541</subfield>
+    <subfield code="J">Autoren D</subfield>
+    <subfield code="N">HU 3450-HU 3451</subfield>
+    <subfield code="J">DeLillo, Don</subfield>
+    <subfield code="A">SEPA</subfield>
+  </datafield>
+  <datafield tag="046L">
+    <subfield code="a">Barrierefreier Inhalt: Compliant with Level AA of the Web Content Accessibility Guidelines. Content is displayed as HTML full text which can easily be resized or read with assistive technology, with mark-up that allows screen readers and keyboard-only users to navigate easily</subfield>
+  </datafield>
+  <datafield tag="047I">
+    <subfield code="a">Series Editors' Preface -- Acknowledgements -- Contributors -- Chronology of Don DeLillo's Life -- Introduction: A Trick of the Light: Don DeLillo in the 21st Century / Katherine Da Cunha Lewin (University of Sussex, UK) &amp; Kiron Ward (University of East Anglia, UK) -- 1. 'I'm sure you must be somebody': White Masculinity in Don DeLillo's Americana and / White Noise Tim Engles (Eastern Illinois University, USA) -- 2. Apocalyptism, Environmentalism and the Other in Don DeLillo's End Zone, Great Jones Street and Ratner's Star Katherine Da Cunha Lewin (University of Sussex, UK) -- 3. Libranth: Nicholas Branch's Joycean Labyrinth in Don DeLillo's Libra / Graley Herren (Xavier University, USA) -- 4. Unstable Bodies in Don DeLillo's Mao II and The Body Artist / Rebecca Harding (University of Sussex, UK) -- 5. 'We came for the dirt but stayed for the talk': Don DeLillo's Theatre / Mark Osteen (Loyola University Maryland, USA) -- 6. Don DeLillo's Italian American: The Early Short Stories and Underworld / Maria Lauret (University of Sussex, UK) -- 7. Staging the Counter-Narrative in Don DeLillo's Falling Man / Ronan McKinney (University of Sussex, UK) -- 8. The Art of Being Out of Time in Don DeLillo's Point Omega / Catherine Gander (Maynooth University, Ireland) -- 9. Don DeLillo's Zero K and the Dream of the Cryonic Election / David Cowart (University of South Carolina, USA) -- Interview: The Edge of the Future: A Discussion with Don DeLillo / Peter Boxall (University of Sussex, UK) -- Further Reading -- Index.</subfield>
+  </datafield>
+  <datafield tag="047I">
+    <subfield code="a">"Don DeLillo is widely regarded as one of the most significant, and prescient, writers of our time. Since the 1960s, DeLillo's fiction has been at the cutting edge of thought on American identity, globalization, technology, environmental destruction, and terrorism, always with a distinctively macabre and humorous eye. Don DeLillo: Contemporary Critical Perspectives brings together leading scholars of the contemporary American novel to guide readers through DeLillo's oeuvre, from his early short stories through to 2016's Zero K, including his theatrical work. As well as critically exploring DeLillo's engagement with key contemporary themes, the book also includes a new interview with the author, annotated guides to further reading, and a chronology of his life and work."--Bloomsbury Publishing</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">11</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">24-02-23</subfield>
+    <subfield code="t">15:26:15.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">24-02-23</subfield>
+    <subfield code="b">1676</subfield>
+    <subfield code="a">0001</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">3484626097</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">11-06-19</subfield>
+    <subfield code="b">k</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="f">5:REMOTE</subfield>
+    <subfield code="d">s</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">kx</subfield>
+    <subfield code="x">52</subfield>
+  </datafield>
+  <datafield tag="209C" occurrence="01">
+    <subfield code="a">1 E 4951-1116</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209O" occurrence="01">
+    <subfield code="a">Bloomsbury</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209O" occurrence="01">
+    <subfield code="a">ACQ</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209R" occurrence="01">
+    <subfield code="u">http://erf.sbb.spk-berlin.de/han/1015543987/dx.doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">Collection 2018</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">32</subfield>
+  </datafield>
+  <datafield tag="220B" occurrence="01">
+    <subfield code="a">Papierkopie an Endbenutzer</subfield>
+  </datafield>
+  <datafield tag="220J" occurrence="01">
+    <subfield code="b">ERF60</subfield>
+    <subfield code="y">ERF ohne Sonderstandort</subfield>
+    <subfield code="a">16-11-21</subfield>
+    <subfield code="c">1655</subfield>
+  </datafield>
+  <datafield tag="220K" occurrence="01">
+    <subfield code="b">ERF20</subfield>
+    <subfield code="y">ERF neu / Fachreferent erledigt</subfield>
+    <subfield code="a">31-03-21</subfield>
+    <subfield code="c">1654</subfield>
+  </datafield>
+  <datafield tag="220K" occurrence="01">
+    <subfield code="b">ERF10</subfield>
+    <subfield code="y">ERF neu / IIA erledigt</subfield>
+    <subfield code="a">31-03-21</subfield>
+    <subfield code="c">1676</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">65</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">31-12-23</subfield>
+    <subfield code="t">19:03:35.000</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">31-12-23</subfield>
+    <subfield code="b">add_ebook</subfield>
+    <subfield code="a">1999</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">4445988820</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">31-12-23</subfield>
+    <subfield code="b">z</subfield>
+  </datafield>
+  <datafield tag="209O" occurrence="01">
+    <subfield code="a">Bloomsbury-EBS</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209R" occurrence="01">
+    <subfield code="u">https://doi.org/10.5040/9781350040892?locatt=label:secondary_bloomsburyCollections</subfield>
+  </datafield>
+  <datafield tag="237A" occurrence="01">
+    <subfield code="a">Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Die Weitergabe an Dritte sowie systematisches Downloaden sind untersagt.</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.ppn=1041305176</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>picaxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

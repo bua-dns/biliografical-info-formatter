@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>picaxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="info:srw/schema/5/picaXML-v1.0">
+  <datafield tag="001@">
+    <subfield code="0">2006,2010-2011,2046,2097,2322</subfield>
+  </datafield>
+  <datafield tag="001A">
+    <subfield code="0">HDUB:15-10-90</subfield>
+  </datafield>
+  <datafield tag="001B">
+    <subfield code="0">BSZ:27-03-24</subfield>
+    <subfield code="t">19:02:41.000</subfield>
+  </datafield>
+  <datafield tag="001D">
+    <subfield code="0">KABBSB:02-08-18</subfield>
+  </datafield>
+  <datafield tag="001U">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="001X">
+    <subfield code="0">0</subfield>
+  </datafield>
+  <datafield tag="002@">
+    <subfield code="0">Aau</subfield>
+  </datafield>
+  <datafield tag="002C">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+  </datafield>
+  <datafield tag="002C">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+  </datafield>
+  <datafield tag="002D">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+  </datafield>
+  <datafield tag="002E">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+  </datafield>
+  <datafield tag="003@">
+    <subfield code="0">1091919720</subfield>
+  </datafield>
+  <datafield tag="003S">
+    <subfield code="0">021919720</subfield>
+  </datafield>
+  <datafield tag="003T">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="0">84066610</subfield>
+  </datafield>
+  <datafield tag="003T">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="0">729319860</subfield>
+  </datafield>
+  <datafield tag="007G">
+    <subfield code="i">BSZ</subfield>
+    <subfield code="0">021919720</subfield>
+  </datafield>
+  <datafield tag="010@">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="011@">
+    <subfield code="a">1979</subfield>
+    <subfield code="n">1979</subfield>
+  </datafield>
+  <datafield tag="013D">
+    <subfield code="9">105454966</subfield>
+    <subfield code="V">Tsvz</subfield>
+    <subfield code="3">209880899</subfield>
+    <subfield code="7">gnd/4163417-2</subfield>
+    <subfield code="a">Katalog</subfield>
+  </datafield>
+  <datafield tag="013D">
+    <subfield code="9">105266639</subfield>
+    <subfield code="V">Tsv1</subfield>
+    <subfield code="3">210051078</subfield>
+    <subfield code="7">gnd/4188171-0</subfield>
+    <subfield code="a">Verzeichnis</subfield>
+  </datafield>
+  <datafield tag="019@">
+    <subfield code="a">XA-AT</subfield>
+  </datafield>
+  <datafield tag="021A">
+    <subfield code="a">Sammlungskatalog 1979</subfield>
+    <subfield code="d">Malerei, Graphik, Plastik, und Objektkunst des 19. und 20. Jahrhunderts</subfield>
+    <subfield code="h">Neue Galerie der Stadt Linz, Wolfgang-Gurlitt-Museum. Red. u. Gestaltung: Peter Baum</subfield>
+  </datafield>
+  <datafield tag="025@">
+    <subfield code="a">Sammlungskatalog  neunzehnhundertneunundsiebzig</subfield>
+  </datafield>
+  <datafield tag="028C">
+    <subfield code="9">1230199241</subfield>
+    <subfield code="V">Tnx</subfield>
+    <subfield code="3">160199247</subfield>
+    <subfield code="A">Baum</subfield>
+    <subfield code="D">Peter</subfield>
+    <subfield code="B">Red.</subfield>
+  </datafield>
+  <datafield tag="029A">
+    <subfield code="9">102528039</subfield>
+    <subfield code="V">Tbv1</subfield>
+    <subfield code="7">gnd/2034996-8</subfield>
+    <subfield code="3">191860662</subfield>
+    <subfield code="w">kiz</subfield>
+    <subfield code="A">Neue Galerie der Stadt Linz, Wolfgang-Gurlitt-Museum</subfield>
+  </datafield>
+  <datafield tag="029F">
+    <subfield code="9">352643722</subfield>
+    <subfield code="V">Tbv1</subfield>
+    <subfield code="7">gnd/10042320-6</subfield>
+    <subfield code="3">199215618</subfield>
+    <subfield code="w">kiz</subfield>
+    <subfield code="A">Lentos Kunstmuseum Linz</subfield>
+  </datafield>
+  <datafield tag="033A">
+    <subfield code="p">Linz</subfield>
+  </datafield>
+  <datafield tag="034D">
+    <subfield code="a">394 S.</subfield>
+  </datafield>
+  <datafield tag="034M">
+    <subfield code="a">zahlr. Ill.</subfield>
+  </datafield>
+  <datafield tag="045R">
+    <subfield code="9">1272357058</subfield>
+    <subfield code="V">Tkv</subfield>
+    <subfield code="7">rvk/93162:</subfield>
+    <subfield code="3">202357058</subfield>
+    <subfield code="a">LH 35130</subfield>
+    <subfield code="j">Linz</subfield>
+    <subfield code="N">LD,LH-LO</subfield>
+    <subfield code="J">Kunstgeschichte</subfield>
+    <subfield code="N">LH 10015-LH 90260</subfield>
+    <subfield code="J">Allgemeines. Allgemeine Kunstgeschichte</subfield>
+    <subfield code="N">LH 29912-LH 39910</subfield>
+    <subfield code="J">Museumskunde. Museumskataloge</subfield>
+    <subfield code="N">LH 30010-LH 39910</subfield>
+    <subfield code="J">Kataloge einzelner Museen; Schrifttum über einzelne Museen</subfield>
+    <subfield code="N">LH 34810-LH 35510</subfield>
+    <subfield code="J">Orte L</subfield>
+  </datafield>
+  <datafield tag="045V">
+    <subfield code="a">9,11</subfield>
+    <subfield code="a">9,10</subfield>
+  </datafield>
+  <datafield tag="046X">
+    <subfield code="a">eb</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">2</subfield>
+  </datafield>
+  <datafield tag="046X">
+    <subfield code="a">aa</subfield>
+    <subfield code="f">SSG</subfield>
+    <subfield code="x">XA-DE-BW</subfield>
+    <subfield code="5">DE-16</subfield>
+  </datafield>
+  <datafield tag="047A">
+    <subfield code="a">5090: L1UB/sred (SWB)</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2006</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">10-01-00</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">14-11-00</subfield>
+    <subfield code="t">00:00:00.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">DDSU:10-01-00</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">2152477960</subfield>
+  </datafield>
+  <datafield tag="203S" occurrence="01">
+    <subfield code="0">152477969</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">10-01-00</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">14</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">ddlb</subfield>
+    <subfield code="a">ABET</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2010</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">02-11-00</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">06-12-08</subfield>
+    <subfield code="t">13:16:24.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">L1UB:02-11-00</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">2152478002</subfield>
+  </datafield>
+  <datafield tag="203S" occurrence="01">
+    <subfield code="0">152478000</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">02-11-00</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">15</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">thbb</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2011</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">15-10-90</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">06-06-12</subfield>
+    <subfield code="t">06:46:30.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">HDUB:15-10-90</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">2152477979</subfield>
+  </datafield>
+  <datafield tag="203S" occurrence="01">
+    <subfield code="0">152477977</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">15-10-90</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">16</subfield>
+    <subfield code="a">80 A 13534</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2046</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">30-03-17</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">30-03-17</subfield>
+    <subfield code="t">11:25:37.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">N1GN:30-03-17</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">2963019408</subfield>
+  </datafield>
+  <datafield tag="203S" occurrence="01">
+    <subfield code="0">963019406</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">30-03-17</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">N 1</subfield>
+    <subfield code="D">p</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209B" occurrence="01">
+    <subfield code="a">adis</subfield>
+    <subfield code="x">12</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2097</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">28-05-04</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">15-10-19</subfield>
+    <subfield code="t">10:41:05.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">L1GB:28-05-04</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="202D" occurrence="01">
+    <subfield code="0">15-10-19</subfield>
+    <subfield code="b">1623635</subfield>
+    <subfield code="a">20728</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">2152477995</subfield>
+  </datafield>
+  <datafield tag="203S" occurrence="01">
+    <subfield code="0">152477993</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">28-05-04</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">L 242</subfield>
+    <subfield code="J">n</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="244Z" occurrence="01">
+    <subfield code="S">s</subfield>
+    <subfield code="9">1308023596</subfield>
+    <subfield code="V">Tdi</subfield>
+    <subfield code="3">238023591</subfield>
+    <subfield code="a">Kunstsammlung</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="244Z" occurrence="01">
+    <subfield code="S">c</subfield>
+    <subfield code="9">1310364621</subfield>
+    <subfield code="V">Tdi</subfield>
+    <subfield code="3">240364627</subfield>
+    <subfield code="A">Linz</subfield>
+    <subfield code="Y">Neue Galerie der Stadt Linz</subfield>
+    <subfield code="x">01</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="01">
+    <subfield code="9">1297334809</subfield>
+    <subfield code="V">Tei</subfield>
+    <subfield code="3">227334809</subfield>
+    <subfield code="a">4.1.1.1.</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="245Z" occurrence="01">
+    <subfield code="9">1297334698</subfield>
+    <subfield code="V">Tei</subfield>
+    <subfield code="3">227334698</subfield>
+    <subfield code="a">4.1.1.2.</subfield>
+    <subfield code="x">01</subfield>
+  </datafield>
+  <datafield tag="101@">
+    <subfield code="a">2322</subfield>
+    <subfield code="c">PICA</subfield>
+  </datafield>
+  <datafield tag="201A" occurrence="01">
+    <subfield code="0">02-08-18</subfield>
+  </datafield>
+  <datafield tag="201B" occurrence="01">
+    <subfield code="0">11-10-18</subfield>
+    <subfield code="t">12:44:46.000</subfield>
+  </datafield>
+  <datafield tag="201D" occurrence="01">
+    <subfield code="0">KABBSB:02-08-18</subfield>
+  </datafield>
+  <datafield tag="201U" occurrence="01">
+    <subfield code="0">utf8</subfield>
+  </datafield>
+  <datafield tag="203@" occurrence="01">
+    <subfield code="0">3020152844</subfield>
+  </datafield>
+  <datafield tag="203S" occurrence="01">
+    <subfield code="0">1020152842</subfield>
+  </datafield>
+  <datafield tag="208@" occurrence="01">
+    <subfield code="a">02-08-18</subfield>
+    <subfield code="b">l01</subfield>
+  </datafield>
+  <datafield tag="209A" occurrence="01">
+    <subfield code="B">462</subfield>
+    <subfield code="f">Staatliche Kunsthalle</subfield>
+    <subfield code="a">05 LINZ-LKM 1</subfield>
+    <subfield code="J">a</subfield>
+    <subfield code="x">00</subfield>
+  </datafield>
+  <datafield tag="209G" occurrence="01">
+    <subfield code="a">39015853</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.ppn=1091919720</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>picaxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

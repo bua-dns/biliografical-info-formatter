@@ -143,7 +143,7 @@ fetchAndSaveXmlAsJson({
     label: 'Wissensdinge',
 });
 fetchAndSaveXmlAsJson({
-    id: '1041305176',
+    id: '1617029572',
     label: 'Delillo',
 });
 fetchAndSaveXmlAsJson({
@@ -151,6 +151,42 @@ fetchAndSaveXmlAsJson({
     label: 'Ausstellung-NG',
 });
 fetchAndSaveXmlAsJson({
-    id: '627269303 ',
+    id: '627269303',
     label: 'Ausstellung-Folkwang',
+});
+fetchAndSaveXmlAsJson({
+    id: '1682092178',
+    label: 'Rave',
+});
+fetchAndSaveXmlAsJson({
+    id: '816298793',
+    label: 'Strauss-Strunk',
+});
+fetchAndSaveXmlAsJson({
+    id: '1041305176',
+    label: 'Delillo-Sammelband',
+});
+fetchAndSaveXmlAsJson({
+    id: '275982726',
+    label: 'Strauss',
+});
+fetchAndSaveXmlAsJson({
+    id: '1814295054',
+    label: 'Antirassismus',
+});
+fetchAndSaveXmlAsJson({
+    id: '5075998904',
+    label: 'Lexikon-Gabler',
+});
+fetchAndSaveXmlAsJson({
+    id: '567022579',
+    label: 'Lexikon-Metzler',
+});
+fetchAndSaveXmlAsJson({
+    id: '1091919720',
+    label: 'Sammlungskatalog-Linz',
+});
+fetchAndSaveXmlAsJson({
+    id: '094708924',
+    label: 'Sammlungskatalog-Warsaw',
 });
