@@ -1,0 +1,51 @@
+export const translations = {
+    'Herausgeber': {
+        'la': 'ed.',
+        'de': 'Hrsg.',
+        'en': 'ed.',
+        'fr': 'éd.',
+        'it': 'cur.',
+    },
+    'Übers.': {
+        'la': 'trans.',
+        'de': 'Übers.',
+        'en': 'trans.',
+        'fr': 'trad.',
+        'it': 'trad.',
+    },
+    'Hrsg.': {
+        'la': 'ed.',
+        'de': 'Hrsg.',
+        'en': 'ed.',
+        'fr': 'éd.',
+        'it': 'cur.',
+    },
+    'Seite': {
+        'la': 'p.',
+        'de': 'S.',
+        'en': 'p.',
+        'fr': 'p.',
+        'it': 'p.',
+    },
+    'u.a.': {
+        'la': 'et al.',
+        'de': 'u.a.',
+        'en': 'et al.',
+        'fr': 'et al.',
+        'it': 'et al.',
+    },
+    'Aufl.': {
+        'la': 'ed.',
+        'de': 'Aufl.',
+        'en': 'ed.',
+        'fr': 'éd.',
+        'it': 'ed.',
+    },
+    'Auflage': {
+        'la': 'ed.',
+        'de': 'Aufl.',
+        'en': 'ed.',
+        'fr': 'éd.',
+        'it': 'ed.',
+    },
+};

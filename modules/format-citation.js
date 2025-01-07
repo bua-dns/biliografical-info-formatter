@@ -1,3 +1,5 @@
+import { translations } from '../config/translations.js';
+
 function close(type, lang) {
     const types = {
         editors: {
@@ -52,7 +54,12 @@ function composeNameData(entry) {
 export function formatCitation(data, template, lang) {
     // Handle multiple authors in 028C
     let editors = "";
-    if (Array.isArray(data["028C"]) && data["028C"].length > 0) {
+    // Hook for editors, translators if checks ...
+    if (
+        Array.isArray(data["028C"]) && 
+        data["028C"].length > 0 &&
+        !data["028A"]
+    ) {
         editors = data["028C"]
             .map(entry => {
                 return composeNameData(entry);
@@ -71,7 +78,9 @@ export function formatCitation(data, template, lang) {
     if (data["021A"]) {
         title += '<em>';
         title += data["021A"][0]["a"];
-        title += data["021A"][0]["d"] ? `. ${data["021A"][0]["d"]}` : "";
+        title += data["021A"][0]["d"] 
+            ? `. ${capitalizeSentence(removeSquareBrackets(data["021A"][0]["d"]))}` 
+            : "";
         title += '</em>';
     }
     const edition = checkDataExists(data["032@"], ["a"]) ? data["032@"][0]["a"] : "";
@@ -87,8 +96,39 @@ export function formatCitation(data, template, lang) {
         citation += placeOfPublication ? `${placeOfPublication} ` : "";
         citation += yearOfPublication ? `${yearOfPublication}` : "";
     }
+    citation = internationalize(citation, 'la');
+    citation = generalCleanup(citation);
     return {
         plainText: citation.replace(/\<em\>/g, '').replace(/\<\/em\>/g, ''),
         html: citation
     };
+}
+
+// utils
+
+function capitalizeSentence(sentence) {
+    return sentence.charAt(0).toUpperCase() + sentence.slice(1);
+}
+
+function removeSquareBrackets(str) {
+    return str.replace(/^\[|$\]/g, '');
+}
+
+function generalCleanup(citation) {
+    let clean = citation.replace(/\s;\s/g, '; ');
+    clean = clean.replace(/\.{2}\s/g, '. ');
+    return clean;
+}
+
+function internationalize(citation, lang) {
+    if (lang === 'la') {
+        for (const term in translations) {
+            const translatedTerm = translations[term][lang]; // Get the term for the specified language
+            if (translatedTerm) {
+                const regex = new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g');
+                citation = citation.replace(regex, translatedTerm);
+            }
+        }
+    }
+    return citation;
 }
